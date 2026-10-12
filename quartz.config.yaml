@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: ikkp.github.io/12358-WEBSITE
   ignorePatterns:
     - private
     - templates
