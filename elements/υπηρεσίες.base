@@ -1,0 +1,16 @@
+filters:
+  and:
+    - file.folder == "ELEMENTS/ΥΠΗΡΕΣΙΕΣ"
+views:
+  - type: table
+    name: View
+    groupBy:
+      property: title
+      direction: ASC
+    sort:
+      - property: file.name
+        direction: ASC
+    image: note.title
+    imageFit: contain
+    columnSize:
+      file.name: 299
