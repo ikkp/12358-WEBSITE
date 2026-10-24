@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>VaultPack export report</title>
+<link rel="stylesheet" href="theme.css">
+<link rel="stylesheet" href="base.css">
+</head>
+<body data-np-root="">
+
+<h1>Export report</h1><p>2026-10-24T15:25:50.022Z — v0.18.6</p><p>problems: 0</p><pre class="np-raw"></pre>
+<script>
+// heading fold (offline, no dependencies): default open, click arrow to fold
+document.addEventListener("click", function (e) {
+  var el = e.target instanceof Element ? e.target : null;
+  var btn = el && el.closest ? el.closest(".np-fold-btn") : null;
+  if (btn) {
+    var sec = btn.closest(".np-hsec");
+    if (sec) sec.classList.toggle("np-folded");
+  }
+  // foldable callouts (Obsidian [!type]- / [!type]+)
+  var ct = el && el.closest ? el.closest(".callout-title") : null;
+  if (ct) {
+    var co = ct.closest(".callout");
+    if (co && co.classList.contains("is-collapsible")) {
+      co.classList.toggle("is-collapsed");
+    }
+  }
+  // offline copy button for code blocks
+  var copy = el && el.closest ? el.closest(".np-copy") : null;
+  if (copy) {
+    var pre = copy.closest("pre");
+    var code = pre ? pre.querySelector("code") : null;
+    var text = code ? code.textContent : "";
+    function done(ok) {
+      copy.textContent = ok ? "✓" : "✕";
+      window.setTimeout(function () { copy.textContent = "Copy"; }, 1200);
+    }
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(text).then(
+        function () { done(true); },
+        function () { done(false); }
+      );
+    } else {
+      var ta = document.createElement("textarea");
+      ta.value = text;
+      document.body.appendChild(ta);
+      ta.select();
+      var ok = false;
+      try { ok = document.execCommand("copy"); } catch (err) { ok = false; }
+      ta.remove();
+      done(ok);
+    }
+  }
+});
+// YouTube can't play from file:// (needs a Referer since late 2025) —
+// locally, swap players for bundled-thumbnail cards that link out;
+// when this package is hosted over http(s) the real player stays.
+(function () {
+  if (location.protocol !== "file:") return;
+  var vids = document.querySelectorAll(".np-video");
+  Array.prototype.forEach.call(vids, function (v) {
+    var f = v.querySelector("iframe");
+    if (f) f.remove();
+    var a = document.createElement("a");
+    a.className = "np-video-open";
+    a.href = v.getAttribute("data-page-url") || "#";
+    a.target = "_blank";
+    a.rel = "noopener";
+    var p = document.createElement("span");
+    p.className = "np-play";
+    p.textContent = "▶";
+    a.appendChild(p);
+    v.appendChild(a);
+  });
+})();
+// view switcher (base pages): one view at a time; #view-X hash deep-links;
+// without JS every view simply stacks — graceful degradation for archival.
+(function () {
+  var tabs = document.querySelector(".np-view-tabs");
+  if (!tabs) return;
+  document.body.classList.add("np-tabs-on");
+  var sections = Array.prototype.slice.call(
+    document.querySelectorAll("section.np-view")
+  );
+  var btns = Array.prototype.slice.call(
+    tabs.querySelectorAll(".np-view-tab")
+  );
+  function activate(id, push) {
+    sections.forEach(function (s) {
+      s.style.display = s.id === id ? "" : "none";
+    });
+    btns.forEach(function (b) {
+      b.classList.toggle("np-active", b.getAttribute("data-view") === id);
+    });
+    if (push && history.replaceState) {
+      history.replaceState(null, "", "#" + id);
+    }
+  }
+  btns.forEach(function (b) {
+    b.addEventListener("click", function () {
+      activate(b.getAttribute("data-view"), true);
+    });
+  });
+  function fromHash() {
+    var h = decodeURIComponent(location.hash.replace(/^#/, ""));
+    var known = sections.some(function (s) { return s.id === h; });
+    activate(known ? h : sections.length ? sections[0].id : "", false);
+  }
+  window.addEventListener("hashchange", fromHash);
+  fromHash();
+})();
+</script>
+</body>
+</html>
