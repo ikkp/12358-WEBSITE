@@ -1098,7 +1098,7 @@ body {
 }
 
 /* 1. Κρύβουμε το Sidebar */
-.np-sidebar, .np-nav-btn, .np-backdrop {
+.np-sidebar, .np-nav-btn, .np-backdrop, .np-topbar {
     display: none !important;
 }
 
