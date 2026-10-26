@@ -70,6 +70,11 @@
     "file": "Dystopia.html"
   },
   {
+    "path": "ELEMENTS/BLOG/Ηλεκτρονική ταυτότητα.md",
+    "title": "Ηλεκτρονική ταυτότητα",
+    "file": "Ilektroniki-tautotita.html"
+  },
+  {
     "path": "ELEMENTS/BLOG/Μισακό.md",
     "title": "Μισακό",
     "file": "Misako.html"
@@ -83,6 +88,11 @@
     "path": "ELEMENTS/BLOG/Παράθυρο με θέα.md",
     "title": "Παράθυρο με θέα",
     "file": "Parathyro-me-thea.html"
+  },
+  {
+    "path": "ELEMENTS/BLOG/Τακτοποίηση αυθαιρέτων.md",
+    "title": "Τακτοποίηση αυθαιρέτων",
+    "file": "Taktopoiisi-authaireton.html"
   },
   {
     "path": "ELEMENTS/BLOG/Τι σημαίνει το 12358;.md",
