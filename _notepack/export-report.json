@@ -1,5 +1,5 @@
 {
-  "startedAt": "2026-10-26T08:52:28.111Z",
+  "startedAt": "2026-10-27T15:53:28.989Z",
   "manifestVersion": "0.18.6",
   "scopeTitle": "12358 WEBSITE",
   "exportMode": "local",
@@ -110,11 +110,11 @@
     }
   ],
   "accentCaptured": "rgb(138, 92, 245)",
-  "notePageCount": 89,
+  "notePageCount": 90,
   "notes": [
     {
       "path": "12358 WEBSITE/about.md",
-      "embedWaitMs": 250,
+      "embedWaitMs": 0,
       "embedMatched": 1,
       "embedExpected": 1,
       "embedSrcs": [
@@ -194,28 +194,28 @@
         },
         {
           "originalSrc": "../assets/asset-2b8be58a.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-2b8be58a.webp",
-          "asset": "asset-60baea03.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-2b8be58a.webp",
+          "asset": "asset-688a44ff.webp"
         },
         {
           "originalSrc": "../assets/asset-4b3dcd94.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-4b3dcd94.webp",
-          "asset": "asset-45a4c707.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-4b3dcd94.webp",
+          "asset": "asset-3b6fecf3.webp"
         },
         {
           "originalSrc": "../assets/asset-2c30ead7.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-2c30ead7.webp",
-          "asset": "asset-d686d517.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-2c30ead7.webp",
+          "asset": "asset-ad8db48b.webp"
         },
         {
           "originalSrc": "../assets/asset-49490864.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-49490864.webp",
-          "asset": "asset-cea21cec.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-49490864.webp",
+          "asset": "asset-f3fde5d8.webp"
         },
         {
           "originalSrc": "../assets/asset-3a6987c1.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-3a6987c1.webp",
-          "asset": "asset-b82fb32a.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-3a6987c1.webp",
+          "asset": "asset-7cd563e6.webp"
         },
         {
           "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/greview.webp?1792799591294",
@@ -262,7 +262,7 @@
       "embedQueryHits": [
         {
           "path": "root._children[1]._children[0]._children[6].data",
-          "dataLen": 11,
+          "dataLen": 12,
           "properties": [
             "file.name",
             "note.ΚΑΤΗΓΟΡΙΑ",
@@ -280,7 +280,7 @@
         },
         {
           "src": "Blog.base",
-          "rows": 11,
+          "rows": 12,
           "groups": 0,
           "matchedPath": "root._children[1]._children[0]._children[6].data"
         },
@@ -326,59 +326,64 @@
           "asset": "asset-ebd2c41b.webp"
         },
         {
+          "originalSrc": "../assets/asset-c496b48d.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-c496b48d.webp",
+          "asset": "asset-d92063c4.webp"
+        },
+        {
           "originalSrc": "../assets/asset-c38441fe.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-c38441fe.webp",
-          "asset": "asset-2b60b90a.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-c38441fe.webp",
+          "asset": "asset-625274d6.webp"
         },
         {
           "originalSrc": "../assets/asset-2f1348d1.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-2f1348d1.webp",
-          "asset": "asset-78b8d91b.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-2f1348d1.webp",
+          "asset": "asset-4859135f.webp"
         },
         {
           "originalSrc": "../assets/asset-3ba17917.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-3ba17917.webp",
-          "asset": "asset-e52c812b.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-3ba17917.webp",
+          "asset": "asset-7efe91d7.webp"
         },
         {
           "originalSrc": "../assets/asset-38e79ac2.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-38e79ac2.webp",
-          "asset": "asset-87b8b94a.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-38e79ac2.webp",
+          "asset": "asset-2ab70d26.webp"
         },
         {
           "originalSrc": "../assets/asset-e08f1f01.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-e08f1f01.webp",
-          "asset": "asset-430f77bf.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-e08f1f01.webp",
+          "asset": "asset-e34e5153.webp"
         },
         {
           "originalSrc": "../assets/asset-1fb00ec3.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-1fb00ec3.webp",
-          "asset": "asset-fe8527fa.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-1fb00ec3.webp",
+          "asset": "asset-81f203f6.webp"
         },
         {
           "originalSrc": "../assets/asset-a5459f64.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-a5459f64.webp",
-          "asset": "asset-9ed9d85a.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-a5459f64.webp",
+          "asset": "asset-6c9800a6.webp"
         },
         {
           "originalSrc": "../assets/asset-00a7712e.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-00a7712e.webp",
-          "asset": "asset-193fef59.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-00a7712e.webp",
+          "asset": "asset-6a5d5a3d.webp"
         },
         {
           "originalSrc": "../assets/asset-30f8eed5.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-30f8eed5.webp",
-          "asset": "asset-a212a86a.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-30f8eed5.webp",
+          "asset": "asset-e7a9cace.webp"
         },
         {
           "originalSrc": "../assets/asset-3b5897d3.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-3b5897d3.webp",
-          "asset": "asset-3b567859.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-3b5897d3.webp",
+          "asset": "asset-ba596c6d.webp"
         },
         {
           "originalSrc": "../assets/asset-625577df.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-625577df.webp",
-          "asset": "asset-8bcd3784.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-625577df.webp",
+          "asset": "asset-ac296bf8.webp"
         },
         {
           "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/logo.webp?1791821688564",
@@ -967,223 +972,223 @@
         },
         {
           "originalSrc": "../assets/asset-d5160a22.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-d5160a22.webp",
-          "asset": "asset-c8741203.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-d5160a22.webp",
+          "asset": "asset-3ad807c7.webp"
         },
         {
           "originalSrc": "../assets/asset-b5787fb7.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-b5787fb7.webp",
-          "asset": "asset-eb2c4f1e.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-b5787fb7.webp",
+          "asset": "asset-b4e4f582.webp"
         },
         {
           "originalSrc": "../assets/asset-76b61914.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-76b61914.webp",
-          "asset": "asset-aaf69d28.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-76b61914.webp",
+          "asset": "asset-dea73354.webp"
         },
         {
           "originalSrc": "../assets/asset-7beee698.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-7beee698.webp",
-          "asset": "asset-e3cfef99.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-7beee698.webp",
+          "asset": "asset-a1d07c2d.webp"
         },
         {
           "originalSrc": "../assets/asset-b1d3bf9e.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-b1d3bf9e.webp",
-          "asset": "asset-bc172bc8.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-b1d3bf9e.webp",
+          "asset": "asset-e7a70bbc.webp"
         },
         {
           "originalSrc": "../assets/asset-d9bbe57f.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-d9bbe57f.webp",
-          "asset": "asset-a30bcaf2.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-d9bbe57f.webp",
+          "asset": "asset-aaa112b6.webp"
         },
         {
           "originalSrc": "../assets/asset-1462cccf.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-1462cccf.webp",
-          "asset": "asset-b2b6e2f4.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-1462cccf.webp",
+          "asset": "asset-659e5718.webp"
         },
         {
           "originalSrc": "../assets/asset-c19db501.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-c19db501.webp",
-          "asset": "asset-bb1617cf.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-c19db501.webp",
+          "asset": "asset-d118141b.webp"
         },
         {
           "originalSrc": "../assets/asset-f002e267.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-f002e267.webp",
-          "asset": "asset-19ccbc4e.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-f002e267.webp",
+          "asset": "asset-5438ef6a.webp"
         },
         {
           "originalSrc": "../assets/asset-fb152b73.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-fb152b73.webp",
-          "asset": "asset-21a34816.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-fb152b73.webp",
+          "asset": "asset-16e1a4ea.webp"
         },
         {
           "originalSrc": "../assets/asset-03934234.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-03934234.webp",
-          "asset": "asset-616711ae.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-03934234.webp",
+          "asset": "asset-4ee2fe0a.webp"
         },
         {
           "originalSrc": "../assets/asset-ee74e27a.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-ee74e27a.webp",
-          "asset": "asset-56726e88.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-ee74e27a.webp",
+          "asset": "asset-d5d31134.webp"
         },
         {
           "originalSrc": "../assets/asset-0b13f380.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-0b13f380.webp",
-          "asset": "asset-06fded21.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-0b13f380.webp",
+          "asset": "asset-4d5f3e15.webp"
         },
         {
           "originalSrc": "../assets/asset-6505d988.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-6505d988.webp",
-          "asset": "asset-ad1105a5.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-6505d988.webp",
+          "asset": "asset-44b2ebb1.webp"
         },
         {
           "originalSrc": "../assets/asset-cf14dd41.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-cf14dd41.webp",
-          "asset": "asset-9f5b8ac3.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-cf14dd41.webp",
+          "asset": "asset-6c45e597.webp"
         },
         {
           "originalSrc": "../assets/asset-e0b53153.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-e0b53153.webp",
-          "asset": "asset-b9143ff6.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-e0b53153.webp",
+          "asset": "asset-ecd632da.webp"
         },
         {
           "originalSrc": "../assets/asset-8d3a59d3.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-8d3a59d3.webp",
-          "asset": "asset-6a0a0c1b.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-8d3a59d3.webp",
+          "asset": "asset-6a795dbf.webp"
         },
         {
           "originalSrc": "../assets/asset-f52df0f7.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-f52df0f7.webp",
-          "asset": "asset-ec9cb1f4.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-f52df0f7.webp",
+          "asset": "asset-f6bfee40.webp"
         },
         {
           "originalSrc": "../assets/asset-03b08dd8.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-03b08dd8.webp",
-          "asset": "asset-fccd8d1f.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-03b08dd8.webp",
+          "asset": "asset-a8bbe08b.webp"
         },
         {
           "originalSrc": "../assets/asset-776c4076.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-776c4076.webp",
-          "asset": "asset-dc464d4e.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-776c4076.webp",
+          "asset": "asset-ae2ef4fa.webp"
         },
         {
           "originalSrc": "../assets/asset-fd9574a5.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-fd9574a5.webp",
-          "asset": "asset-aa2897e9.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-fd9574a5.webp",
+          "asset": "asset-009b87c5.webp"
         },
         {
           "originalSrc": "../assets/asset-6a9902b2.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-6a9902b2.webp",
-          "asset": "asset-e2cad4a5.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-6a9902b2.webp",
+          "asset": "asset-9ffb78b9.webp"
         },
         {
           "originalSrc": "../assets/asset-e0f391f3.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-e0f391f3.webp",
-          "asset": "asset-79ada3bb.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-e0f391f3.webp",
+          "asset": "asset-257b0aff.webp"
         },
         {
           "originalSrc": "../assets/asset-d80d1e44.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-d80d1e44.webp",
-          "asset": "asset-4f7bade0.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-d80d1e44.webp",
+          "asset": "asset-1c837fc4.webp"
         },
         {
           "originalSrc": "../assets/asset-a140cb53.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-a140cb53.webp",
-          "asset": "asset-3ad4b883.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-a140cb53.webp",
+          "asset": "asset-6b36386f.webp"
         },
         {
           "originalSrc": "../assets/asset-891befed.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-891befed.webp",
-          "asset": "asset-49622c94.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-891befed.webp",
+          "asset": "asset-3389a550.webp"
         },
         {
           "originalSrc": "../assets/asset-115d0d1d.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-115d0d1d.webp",
-          "asset": "asset-5219443c.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-115d0d1d.webp",
+          "asset": "asset-8feb1528.webp"
         },
         {
           "originalSrc": "../assets/asset-afc75c28.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-afc75c28.webp",
-          "asset": "asset-5fe56b1f.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-afc75c28.webp",
+          "asset": "asset-a7b38ee3.webp"
         },
         {
           "originalSrc": "../assets/asset-1f135536.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-1f135536.webp",
-          "asset": "asset-d6e45e72.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-1f135536.webp",
+          "asset": "asset-2079653e.webp"
         },
         {
           "originalSrc": "../assets/asset-ad28dac0.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-ad28dac0.webp",
-          "asset": "asset-22be71ef.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-ad28dac0.webp",
+          "asset": "asset-cfe6c78b.webp"
         },
         {
           "originalSrc": "../assets/asset-48ce19df.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-48ce19df.webp",
-          "asset": "asset-eebdaa8e.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-48ce19df.webp",
+          "asset": "asset-c018b10a.webp"
         },
         {
           "originalSrc": "../assets/asset-b1e117ec.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-b1e117ec.webp",
-          "asset": "asset-7b321be3.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-b1e117ec.webp",
+          "asset": "asset-4f7d4157.webp"
         },
         {
           "originalSrc": "../assets/asset-6a5171a8.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-6a5171a8.webp",
-          "asset": "asset-a5d5cd48.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-6a5171a8.webp",
+          "asset": "asset-1f04bb6c.webp"
         },
         {
           "originalSrc": "../assets/asset-4108322f.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-4108322f.webp",
-          "asset": "asset-940d6bf8.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-4108322f.webp",
+          "asset": "asset-5fe41464.webp"
         },
         {
           "originalSrc": "../assets/asset-cd670417.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-cd670417.webp",
-          "asset": "asset-02ea84da.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-cd670417.webp",
+          "asset": "asset-bbf7dc9e.webp"
         },
         {
           "originalSrc": "../assets/asset-6d5fca8a.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-6d5fca8a.webp",
-          "asset": "asset-2f45028c.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-6d5fca8a.webp",
+          "asset": "asset-6555b5b8.webp"
         },
         {
           "originalSrc": "../assets/asset-2ebdd59d.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-2ebdd59d.webp",
-          "asset": "asset-355e7db5.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-2ebdd59d.webp",
+          "asset": "asset-019a0479.webp"
         },
         {
           "originalSrc": "../assets/asset-5ca6a1bd.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-5ca6a1bd.webp",
-          "asset": "asset-9030872b.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-5ca6a1bd.webp",
+          "asset": "asset-53fbcf0f.webp"
         },
         {
           "originalSrc": "../assets/asset-7ac381df.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-7ac381df.webp",
-          "asset": "asset-531ef94b.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-7ac381df.webp",
+          "asset": "asset-b6e4c4ff.webp"
         },
         {
           "originalSrc": "../assets/asset-0c273273.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-0c273273.webp",
-          "asset": "asset-23e1a92d.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-0c273273.webp",
+          "asset": "asset-9e584039.webp"
         },
         {
           "originalSrc": "../assets/asset-f9f59244.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-f9f59244.webp",
-          "asset": "asset-ffb45443.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-f9f59244.webp",
+          "asset": "asset-651c1587.webp"
         },
         {
           "originalSrc": "../assets/asset-dd21e96f.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-dd21e96f.webp",
-          "asset": "asset-0614288b.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-dd21e96f.webp",
+          "asset": "asset-7b91644f.webp"
         },
         {
           "originalSrc": "../assets/asset-12a371aa.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-12a371aa.webp",
-          "asset": "asset-e61fa45d.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-12a371aa.webp",
+          "asset": "asset-32e83111.webp"
         },
         {
           "originalSrc": "../assets/asset-0e164745.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261026-105228/assets/asset-0e164745.webp",
-          "asset": "asset-788c8cf0.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-0e164745.webp",
+          "asset": "asset-949e37fc.webp"
         },
         {
           "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/logo.webp?1791821688564",
@@ -1656,6 +1661,41 @@
         "p"
       ],
       "foldableSections": 0
+    },
+    {
+      "path": "ELEMENTS/BLOG/Ενεργειακό πιστοποιητικό (ΠΕΑ).md",
+      "links": [],
+      "images": [],
+      "embedSpanCount": 0,
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "h3",
+        "p",
+        "p",
+        "h3",
+        "p",
+        "p",
+        "p",
+        "h3",
+        "p",
+        "ul",
+        "p",
+        "h3",
+        "p",
+        "p",
+        "h3",
+        "p",
+        "p",
+        "p",
+        "h3",
+        "p",
+        "p",
+        "h3",
+        "p",
+        "p",
+        "p"
+      ],
+      "foldableSections": 7
     },
     {
       "path": "ELEMENTS/BLOG/Ηλεκτρονική ταυτότητα.md",
@@ -3828,11 +3868,17 @@
     },
     {
       "path": "ELEMENTS/ΥΠΗΡΕΣΙΕΣ/Ενεργειακά πιστοποιητικά (ΠΕΑ).md",
-      "links": [],
+      "links": [
+        {
+          "linktext": "Ενεργειακό πιστοποιητικό (ΠΕΑ)",
+          "to": "ELEMENTS/BLOG/Ενεργειακό πιστοποιητικό (ΠΕΑ).md"
+        }
+      ],
       "images": [],
       "embedSpanCount": 0,
       "noteEmbeds": [],
       "topLevelTags": [
+        "p",
         "p"
       ],
       "foldableSections": 0
