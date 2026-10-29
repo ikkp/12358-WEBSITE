@@ -12,7 +12,7 @@
         <meta property="og:type" content="website">
         <meta property="og:url" content="https://www.12358.gr/Epivlepsi.html">
         <meta property="og:title" content="Επίβλεψη">
-        <meta property="og:description" content="12358 Μελέτη - Κατασκευή Κτιρίων. Αναλαμβάνουμε μελέτες και κατασκευές.">
+        <meta property="og:description" content="Μηχανικός - Τεχνικό Γραφείο. Αναλαμβάνουμε μελέτη και κατασκευή κτιρίων, οικοδομικές άδειες, ανακαινίσεις, τακτοποίηση αυθαιρέτων και άδειες λειτουργίας.">
         <meta property="og:image" content="https://www.12358.gr/assets/cover.webp">
         
 
@@ -31,11 +31,11 @@
             "addressCountry": "GR"
           },
           "image": "https://www.12358.gr/assets/cover.webp",
-          "description": "Μελέτη και κατασκευή κτιρίων. Οικοδομικές άδειες, ανακαινίσεις, στατικές μελέτες."
+          "description": "Μηχανικός - Τεχνικό Γραφείο. Αναλαμβάνουμε μελέτη και κατασκευή κτιρίων, οικοδομικές άδειες, ανακαινίσεις, τακτοποίηση αυθαιρέτων και άδειες λειτουργίας."
         }
         </script>
         
-<meta name="description" content="12358 Μελέτη - Κατασκευή Κτιρίων. Αναλαμβάνουμε μελέτες και κατασκευές στην Αθήνα. Οικοδομικές άδειες, ανακαινίσεις, στατικές μελέτες.">
+<meta name="description" content="Μηχανικός - Τεχνικό Γραφείο. Αναλαμβάνουμε μελέτη και κατασκευή κτιρίων, οικοδομικές άδειες, ανακαινίσεις, τακτοποίηση αυθαιρέτων και άδειες λειτουργίας.">
 </head>
 <body class="np-has-nav" data-np-root="" data-np-page="Epivlepsi.html">
 <aside class="np-sidebar"><div class="np-side-title"><a href="../START_HERE.html">12358 WEBSITE</a></div><div class="np-search"><input type="search" class="np-search-input" placeholder="Search…"><div class="np-search-results" hidden></div></div><nav class="np-nav-tree"></nav></aside><div class="np-backdrop"></div><header class="np-topbar"><button type="button" class="np-nav-btn" aria-label="Menu">☰</button><a class="np-home" href="../START_HERE.html">⌂ HOME</a></header>
@@ -209,57 +209,52 @@ document.addEventListener('DOMContentLoaded', function() {
     const cardViews = document.querySelectorAll('.np-cards-view');
     
     cardViews.forEach(cardView => {
-        // Ελέγχουμε αν το Base έχει ομαδοποίηση (Group by) - Όπως στο Portfolio
         const labels = Array.from(cardView.querySelectorAll('.np-group-label'));
         const hasGroups = labels.length > 0;
         
         let filterBar = document.createElement('div');
         filterBar.className = 'custom-filter-bar';
         let categories = new Set();
-        let cards = [];
+        
+        // --- ΝΕΟ: Δημιουργία πεδίου αναζήτησης ---
+        let searchContainer = document.createElement('div');
+        searchContainer.className = 'custom-search-container';
+        searchContainer.innerHTML = '<input type="text" class="custom-search-input" placeholder="🔍 Αναζήτηση..." aria-label="Αναζήτηση">';
+        let searchInput = searchContainer.querySelector('.custom-search-input');
+        // --------------------------------------------
+        
+        let cardGroups = [];
+        let allCards = [];
+        let cardToGroup = new Map();
 
         if (hasGroups) {
-            // ΛΟΓΙΚΗ ΓΙΑ PORTFOLIO (Με Group by)
-            const cardGroups = Array.from(cardView.querySelectorAll('.np-cards'));
+            cardGroups = Array.from(cardView.querySelectorAll('.np-cards'));
             labels.forEach(label => categories.add(label.textContent.trim()));
-            cards = cardGroups;
-
-            // Δημιουργία κουμπιών
-            createFilterButtons(filterBar, categories);
-            cardView.insertBefore(filterBar, labels[0]);
-
-            // Λειτουργία φιλτραρίσματος
-            filterBar.addEventListener('click', function(e) {
-                if (!e.target.classList.contains('custom-filter-btn')) return;
-                const filterValue = e.target.dataset.filter;
-                updateActiveButton(filterBar, e.target);
-
-                labels.forEach((label, index) => {
-                    const group = cardGroups[index];
-                    if (!group) return;
-                    if (filterValue === 'all' || label.textContent.trim() === filterValue) {
-                        label.style.display = 'block';
-                        group.style.display = 'grid';
-                    } else {
-                        label.style.display = 'none';
-                        group.style.display = 'none';
-                    }
+            
+            labels.forEach((label, index) => {
+                const group = cardGroups[index];
+                if (!group) return;
+                const groupCards = Array.from(group.querySelectorAll('.np-card'));
+                groupCards.forEach(card => {
+                    cardToGroup.set(card, label);
+                    allCards.push(card);
                 });
             });
-
+            
+            createFilterButtons(filterBar, categories);
+            cardView.insertBefore(filterBar, labels[0]);
+            cardView.insertBefore(searchContainer, filterBar);
+            
         } else {
-            // ΛΟΓΙΚΗ ΓΙΑ BLOG (Χωρίς Group by, κατηγορία μέσα στην κάρτα)
-            cards = Array.from(cardView.querySelectorAll('.np-card'));
-            if (cards.length === 0) return;
-
-            // Εξαγωγή κατηγοριών από τις κάρτες
-            cards.forEach(card => {
+            allCards = Array.from(cardView.querySelectorAll('.np-card'));
+            if (allCards.length === 0) return;
+            
+            allCards.forEach(card => {
                 const props = card.querySelectorAll('.np-sub-prop');
                 let categoryText = '';
                 props.forEach(prop => {
                     const label = prop.querySelector('.np-sub-label');
                     if (label && label.textContent.trim().toUpperCase() === 'ΚΑΤΗΓΟΡΙΑ') {
-                        // Παίρνουμε το κείμενο αφαιρώντας την ετικέτα "ΚΑΤΗΓΟΡΙΑ"
                         categoryText = prop.textContent.replace(label.textContent, '').trim();
                     }
                 });
@@ -268,31 +263,69 @@ document.addEventListener('DOMContentLoaded', function() {
                     categories.add(categoryText);
                 }
             });
-
-            if (categories.size === 0) return; // Αν δεν βρει κατηγορίες, μην κάνει τίποτα
-
-            // Δημιουργία κουμπιών
+            
+            if (categories.size === 0) return;
+            
             createFilterButtons(filterBar, categories);
             cardView.insertBefore(filterBar, cardView.firstChild);
-
-            // Λειτουργία φιλτραρίσματος
-            filterBar.addEventListener('click', function(e) {
-                if (!e.target.classList.contains('custom-filter-btn')) return;
-                const filterValue = e.target.dataset.filter;
-                updateActiveButton(filterBar, e.target);
-
-                cards.forEach(card => {
-                    if (filterValue === 'all' || card.dataset.customCategory === filterValue) {
-                        card.style.display = 'block'; // Εμφάνιση κάρτας
+            cardView.insertBefore(searchContainer, filterBar);
+        }
+        
+        // --- ΝΕΟ: Λογική συνδυασμού φίλτρων και αναζήτησης ---
+        let activeCategory = 'all';
+        let searchTerm = '';
+        
+        function getCardCategory(card) {
+            if (cardToGroup.has(card)) {
+                return cardToGroup.get(card).textContent.trim();
+            }
+            return card.dataset.customCategory || '';
+        }
+        
+        function applyFilters() {
+            allCards.forEach(card => {
+                const matchesCategory = activeCategory === 'all' || getCardCategory(card) === activeCategory;
+                const matchesSearch = searchTerm === '' || 
+                    card.textContent.toLowerCase().includes(searchTerm);
+                
+                card.style.display = (matchesCategory && matchesSearch) ? '' : 'none';
+            });
+            
+            // Για ομαδοποιημένες προβολές (Portfolio), κρύβουμε τις άδειες ομάδες
+            if (hasGroups) {
+                labels.forEach((label, index) => {
+                    const group = cardGroups[index];
+                    if (!group) return;
+                    const visibleCards = Array.from(group.querySelectorAll('.np-card')).filter(
+                        c => c.style.display !== 'none'
+                    );
+                    if (visibleCards.length === 0) {
+                        label.style.display = 'none';
+                        group.style.display = 'none';
                     } else {
-                        card.style.display = 'none'; // Απόκρυψη κάρτας
+                        label.style.display = 'block';
+                        group.style.display = 'grid';
                     }
                 });
-            });
+            }
         }
+        
+        // Κλικ στις κατηγορίες
+        filterBar.addEventListener('click', function(e) {
+            if (!e.target.classList.contains('custom-filter-btn')) return;
+            activeCategory = e.target.dataset.filter;
+            updateActiveButton(filterBar, e.target);
+            applyFilters();
+        });
+        
+        // Πληκτρολόγηση στην αναζήτηση
+        searchInput.addEventListener('input', function(e) {
+            searchTerm = e.target.value.toLowerCase().trim();
+            applyFilters();
+        });
+        // ----------------------------------------------------
     });
 
-    // Βοηθητικές συναρτήσεις
     function createFilterButtons(bar, categoriesSet) {
         const allBtn = document.createElement('button');
         allBtn.textContent = 'Όλα';

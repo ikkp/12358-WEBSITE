@@ -1,5 +1,5 @@
 {
-  "startedAt": "2026-10-27T15:53:28.989Z",
+  "startedAt": "2026-10-29T23:45:54.541Z",
   "manifestVersion": "0.18.6",
   "scopeTitle": "12358 WEBSITE",
   "exportMode": "local",
@@ -110,11 +110,11 @@
     }
   ],
   "accentCaptured": "rgb(138, 92, 245)",
-  "notePageCount": 90,
+  "notePageCount": 91,
   "notes": [
     {
       "path": "12358 WEBSITE/about.md",
-      "embedWaitMs": 0,
+      "embedWaitMs": 250,
       "embedMatched": 1,
       "embedExpected": 1,
       "embedSrcs": [
@@ -123,7 +123,7 @@
         "greview.webp",
         "ATTACHMENTS/SITE/logo.webp"
       ],
-      "firstEmbedDom": "<span alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"ATTACHMENTS/SITE/cover.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409\"></span>",
+      "firstEmbedDom": "<span alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"ATTACHMENTS/SITE/cover.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409\"></span>",
       "embedQueryHits": [
         {
           "path": "root._children[1]._children[0]._children[6].data",
@@ -188,42 +188,42 @@
       ],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409",
           "resolvedPath": "ATTACHMENTS/SITE/cover.webp",
           "asset": "asset-ebd2c41b.webp"
         },
         {
           "originalSrc": "../assets/asset-2b8be58a.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-2b8be58a.webp",
-          "asset": "asset-688a44ff.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-2b8be58a.webp",
+          "asset": "asset-64755b3f.webp"
         },
         {
           "originalSrc": "../assets/asset-4b3dcd94.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-4b3dcd94.webp",
-          "asset": "asset-3b6fecf3.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-4b3dcd94.webp",
+          "asset": "asset-a3c37533.webp"
         },
         {
           "originalSrc": "../assets/asset-2c30ead7.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-2c30ead7.webp",
-          "asset": "asset-ad8db48b.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-2c30ead7.webp",
+          "asset": "asset-75588dcb.webp"
         },
         {
           "originalSrc": "../assets/asset-49490864.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-49490864.webp",
-          "asset": "asset-f3fde5d8.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-49490864.webp",
+          "asset": "asset-cb2d8718.webp"
         },
         {
           "originalSrc": "../assets/asset-3a6987c1.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-3a6987c1.webp",
-          "asset": "asset-7cd563e6.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-3a6987c1.webp",
+          "asset": "asset-7c6b2426.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/greview.webp?1792799591294",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/greview.webp?1792799591294",
           "resolvedPath": "ATTACHMENTS/SITE/greview.webp",
           "asset": "asset-83fa58f9.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/logo.webp?1791821688564",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/logo.webp?1791821688564",
           "resolvedPath": "ATTACHMENTS/SITE/logo.webp",
           "asset": "asset-e797ff9f.webp"
         }
@@ -258,11 +258,11 @@
         "Blog.base",
         "ATTACHMENTS/SITE/logo.webp"
       ],
-      "firstEmbedDom": "<span alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"ATTACHMENTS/SITE/cover.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409\"></span>",
+      "firstEmbedDom": "<span alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"ATTACHMENTS/SITE/cover.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409\"></span>",
       "embedQueryHits": [
         {
           "path": "root._children[1]._children[0]._children[6].data",
-          "dataLen": 12,
+          "dataLen": 13,
           "properties": [
             "file.name",
             "note.ΚΑΤΗΓΟΡΙΑ",
@@ -280,7 +280,7 @@
         },
         {
           "src": "Blog.base",
-          "rows": 12,
+          "rows": 13,
           "groups": 0,
           "matchedPath": "root._children[1]._children[0]._children[6].data"
         },
@@ -321,72 +321,77 @@
       ],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409",
           "resolvedPath": "ATTACHMENTS/SITE/cover.webp",
           "asset": "asset-ebd2c41b.webp"
         },
         {
+          "originalSrc": "../assets/asset-c436caee.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-c436caee.webp",
+          "asset": "asset-e3c153ca.webp"
+        },
+        {
           "originalSrc": "../assets/asset-c496b48d.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-c496b48d.webp",
-          "asset": "asset-d92063c4.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-c496b48d.webp",
+          "asset": "asset-ce20fd84.webp"
         },
         {
           "originalSrc": "../assets/asset-c38441fe.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-c38441fe.webp",
-          "asset": "asset-625274d6.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-c38441fe.webp",
+          "asset": "asset-f50e5c96.webp"
         },
         {
           "originalSrc": "../assets/asset-2f1348d1.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-2f1348d1.webp",
-          "asset": "asset-4859135f.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-2f1348d1.webp",
+          "asset": "asset-e752f39f.webp"
         },
         {
           "originalSrc": "../assets/asset-3ba17917.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-3ba17917.webp",
-          "asset": "asset-7efe91d7.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-3ba17917.webp",
+          "asset": "asset-377ed817.webp"
         },
         {
           "originalSrc": "../assets/asset-38e79ac2.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-38e79ac2.webp",
-          "asset": "asset-2ab70d26.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-38e79ac2.webp",
+          "asset": "asset-fccad7e6.webp"
         },
         {
           "originalSrc": "../assets/asset-e08f1f01.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-e08f1f01.webp",
-          "asset": "asset-e34e5153.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-e08f1f01.webp",
+          "asset": "asset-6a5a0613.webp"
         },
         {
           "originalSrc": "../assets/asset-1fb00ec3.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-1fb00ec3.webp",
-          "asset": "asset-81f203f6.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-1fb00ec3.webp",
+          "asset": "asset-0877f936.webp"
         },
         {
           "originalSrc": "../assets/asset-a5459f64.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-a5459f64.webp",
-          "asset": "asset-6c9800a6.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-a5459f64.webp",
+          "asset": "asset-37848ce6.webp"
         },
         {
           "originalSrc": "../assets/asset-00a7712e.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-00a7712e.webp",
-          "asset": "asset-6a5d5a3d.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-00a7712e.webp",
+          "asset": "asset-f140de7d.webp"
         },
         {
           "originalSrc": "../assets/asset-30f8eed5.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-30f8eed5.webp",
-          "asset": "asset-e7a9cace.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-30f8eed5.webp",
+          "asset": "asset-3c009d0e.webp"
         },
         {
           "originalSrc": "../assets/asset-3b5897d3.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-3b5897d3.webp",
-          "asset": "asset-ba596c6d.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-3b5897d3.webp",
+          "asset": "asset-f879dbad.webp"
         },
         {
           "originalSrc": "../assets/asset-625577df.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-625577df.webp",
-          "asset": "asset-ac296bf8.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-625577df.webp",
+          "asset": "asset-c933e538.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/logo.webp?1791821688564",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/logo.webp?1791821688564",
           "resolvedPath": "ATTACHMENTS/SITE/logo.webp",
           "asset": "asset-e797ff9f.webp"
         }
@@ -416,7 +421,7 @@
         "PnG.webp",
         "TNT.webp"
       ],
-      "firstEmbedDom": "<span alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"ATTACHMENTS/SITE/cover.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409\"></span>",
+      "firstEmbedDom": "<span alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"ATTACHMENTS/SITE/cover.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -520,87 +525,87 @@
       ],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409",
           "resolvedPath": "ATTACHMENTS/SITE/cover.webp",
           "asset": "asset-ebd2c41b.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/Avin.webp?1792834136516",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/Avin.webp?1792834136516",
           "resolvedPath": "ATTACHMENTS/CLIENTS/Avin.webp",
           "asset": "asset-aa409bd1.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/Cyclon.webp?1792834203942",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/Cyclon.webp?1792834203942",
           "resolvedPath": "ATTACHMENTS/CLIENTS/Cyclon.webp",
           "asset": "asset-84a37abf.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/FINO.webp?1792834226360",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/FINO.webp?1792834226360",
           "resolvedPath": "ATTACHMENTS/CLIENTS/FINO.webp",
           "asset": "asset-c72f506b.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/Groupon.webp?1792834259048",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/Groupon.webp?1792834259048",
           "resolvedPath": "ATTACHMENTS/CLIENTS/Groupon.webp",
           "asset": "asset-31320755.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/Mondelez.webp?1792834276475",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/Mondelez.webp?1792834276475",
           "resolvedPath": "ATTACHMENTS/CLIENTS/Mondelez.webp",
           "asset": "asset-fcd0298d.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/Motor_oil.webp?1792834291932",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/Motor_oil.webp?1792834291932",
           "resolvedPath": "ATTACHMENTS/CLIENTS/Motor_oil.webp",
           "asset": "asset-09a53efd.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/Navios.webp?1792834307013",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/Navios.webp?1792834307013",
           "resolvedPath": "ATTACHMENTS/CLIENTS/Navios.webp",
           "asset": "asset-24a523e3.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/PnG.webp?1792834331434",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/PnG.webp?1792834331434",
           "resolvedPath": "ATTACHMENTS/CLIENTS/PnG.webp",
           "asset": "asset-5f3a859a.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/TNT.webp?1792834345645",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/TNT.webp?1792834345645",
           "resolvedPath": "ATTACHMENTS/CLIENTS/TNT.webp",
           "asset": "asset-3e70a6d1.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/Unison.webp?1792834375697",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/Unison.webp?1792834375697",
           "resolvedPath": "ATTACHMENTS/CLIENTS/Unison.webp",
           "asset": "asset-da3237ff.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/%CE%94%CE%AF%CE%BA%CF%84%CF%85%CE%BF.webp?1792834389944",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/%CE%94%CE%AF%CE%BA%CF%84%CF%85%CE%BF.webp?1792834389944",
           "resolvedPath": "ATTACHMENTS/CLIENTS/Δίκτυο.webp",
           "asset": "asset-6797badc.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/%CE%95%CE%95%CE%97%CE%9B%CE%A0%CE%91%CE%A0.webp?1792834418332",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/%CE%95%CE%95%CE%97%CE%9B%CE%A0%CE%91%CE%A0.webp?1792834418332",
           "resolvedPath": "ATTACHMENTS/CLIENTS/ΕΕΗΛΠΑΠ.webp",
           "asset": "asset-19f7e0b8.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/%CE%9A%CF%89%CF%84%CF%83%CF%8C%CE%B2%CE%BF%CE%BB%CE%BF%CF%82.webp?1792834445793",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/%CE%9A%CF%89%CF%84%CF%83%CF%8C%CE%B2%CE%BF%CE%BB%CE%BF%CF%82.webp?1792834445793",
           "resolvedPath": "ATTACHMENTS/CLIENTS/Κωτσόβολος.webp",
           "asset": "asset-d96e6396.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/%CE%A4%CE%A4.webp?1792834471265",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/%CE%A4%CE%A4.webp?1792834471265",
           "resolvedPath": "ATTACHMENTS/CLIENTS/ΤΤ.webp",
           "asset": "asset-5c275735.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/%CE%A8%CF%85%CF%87%CE%BF%CE%B3%CE%B9%CF%8C%CF%82.webp?1792834485356",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/CLIENTS/%CE%A8%CF%85%CF%87%CE%BF%CE%B3%CE%B9%CF%8C%CF%82.webp?1792834485356",
           "resolvedPath": "ATTACHMENTS/CLIENTS/Ψυχογιός.webp",
           "asset": "asset-6a49d6a8.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/logo.webp?1791821688564",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/logo.webp?1791821688564",
           "resolvedPath": "ATTACHMENTS/SITE/logo.webp",
           "asset": "asset-e797ff9f.webp"
         }
@@ -627,7 +632,7 @@
         "ATTACHMENTS/SITE/cover.webp",
         "ATTACHMENTS/SITE/logo.webp"
       ],
-      "firstEmbedDom": "<span alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"ATTACHMENTS/SITE/cover.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409\"></span>",
+      "firstEmbedDom": "<span alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"ATTACHMENTS/SITE/cover.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -683,12 +688,12 @@
       ],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409",
           "resolvedPath": "ATTACHMENTS/SITE/cover.webp",
           "asset": "asset-ebd2c41b.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/logo.webp?1791821688564",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/logo.webp?1791821688564",
           "resolvedPath": "ATTACHMENTS/SITE/logo.webp",
           "asset": "asset-e797ff9f.webp"
         }
@@ -719,7 +724,7 @@
         "ATTACHMENTS/SITE/cover.webp",
         "ATTACHMENTS/SITE/logo.webp"
       ],
-      "firstEmbedDom": "<span alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"ATTACHMENTS/SITE/cover.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409\"></span>",
+      "firstEmbedDom": "<span alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"ATTACHMENTS/SITE/cover.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -763,12 +768,12 @@
       ],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409",
           "resolvedPath": "ATTACHMENTS/SITE/cover.webp",
           "asset": "asset-ebd2c41b.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/logo.webp?1791821688564",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/logo.webp?1791821688564",
           "resolvedPath": "ATTACHMENTS/SITE/logo.webp",
           "asset": "asset-e797ff9f.webp"
         }
@@ -814,7 +819,7 @@
         "ATTACHMENTS/SITE/cover.webp",
         "ATTACHMENTS/SITE/logo.webp"
       ],
-      "firstEmbedDom": "<span alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"ATTACHMENTS/SITE/cover.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409\"></span>",
+      "firstEmbedDom": "<span alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"ATTACHMENTS/SITE/cover.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -870,12 +875,12 @@
       ],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409",
           "resolvedPath": "ATTACHMENTS/SITE/cover.webp",
           "asset": "asset-ebd2c41b.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/logo.webp?1791821688564",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/logo.webp?1791821688564",
           "resolvedPath": "ATTACHMENTS/SITE/logo.webp",
           "asset": "asset-e797ff9f.webp"
         }
@@ -905,7 +910,7 @@
         "Έργα.base",
         "ATTACHMENTS/SITE/logo.webp"
       ],
-      "firstEmbedDom": "<span alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"ATTACHMENTS/SITE/cover.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409\"></span>",
+      "firstEmbedDom": "<span alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"ATTACHMENTS/SITE/cover.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409\"></span>",
       "embedQueryHits": [
         {
           "path": "root._children[1]._children[0]._children[6].data",
@@ -966,232 +971,232 @@
       ],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409",
           "resolvedPath": "ATTACHMENTS/SITE/cover.webp",
           "asset": "asset-ebd2c41b.webp"
         },
         {
           "originalSrc": "../assets/asset-d5160a22.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-d5160a22.webp",
-          "asset": "asset-3ad807c7.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-d5160a22.webp",
+          "asset": "asset-7df46e07.webp"
         },
         {
           "originalSrc": "../assets/asset-b5787fb7.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-b5787fb7.webp",
-          "asset": "asset-b4e4f582.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-b5787fb7.webp",
+          "asset": "asset-b407bc42.webp"
         },
         {
           "originalSrc": "../assets/asset-76b61914.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-76b61914.webp",
-          "asset": "asset-dea73354.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-76b61914.webp",
+          "asset": "asset-a5642e14.webp"
         },
         {
           "originalSrc": "../assets/asset-7beee698.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-7beee698.webp",
-          "asset": "asset-a1d07c2d.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-7beee698.webp",
+          "asset": "asset-3dbf996d.webp"
         },
         {
           "originalSrc": "../assets/asset-b1d3bf9e.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-b1d3bf9e.webp",
-          "asset": "asset-e7a70bbc.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-b1d3bf9e.webp",
+          "asset": "asset-4baf197c.webp"
         },
         {
           "originalSrc": "../assets/asset-d9bbe57f.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-d9bbe57f.webp",
-          "asset": "asset-aaa112b6.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-d9bbe57f.webp",
+          "asset": "asset-e1c71e76.webp"
         },
         {
           "originalSrc": "../assets/asset-1462cccf.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-1462cccf.webp",
-          "asset": "asset-659e5718.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-1462cccf.webp",
+          "asset": "asset-2f903e58.webp"
         },
         {
           "originalSrc": "../assets/asset-c19db501.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-c19db501.webp",
-          "asset": "asset-d118141b.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-c19db501.webp",
+          "asset": "asset-61f876db.webp"
         },
         {
           "originalSrc": "../assets/asset-f002e267.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-f002e267.webp",
-          "asset": "asset-5438ef6a.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-f002e267.webp",
+          "asset": "asset-5ec8c0aa.webp"
         },
         {
           "originalSrc": "../assets/asset-fb152b73.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-fb152b73.webp",
-          "asset": "asset-16e1a4ea.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-fb152b73.webp",
+          "asset": "asset-929984aa.webp"
         },
         {
           "originalSrc": "../assets/asset-03934234.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-03934234.webp",
-          "asset": "asset-4ee2fe0a.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-03934234.webp",
+          "asset": "asset-2614324a.webp"
         },
         {
           "originalSrc": "../assets/asset-ee74e27a.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-ee74e27a.webp",
-          "asset": "asset-d5d31134.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-ee74e27a.webp",
+          "asset": "asset-6250b674.webp"
         },
         {
           "originalSrc": "../assets/asset-0b13f380.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-0b13f380.webp",
-          "asset": "asset-4d5f3e15.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-0b13f380.webp",
+          "asset": "asset-1c058855.webp"
         },
         {
           "originalSrc": "../assets/asset-6505d988.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-6505d988.webp",
-          "asset": "asset-44b2ebb1.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-6505d988.webp",
+          "asset": "asset-934ac471.webp"
         },
         {
           "originalSrc": "../assets/asset-cf14dd41.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-cf14dd41.webp",
-          "asset": "asset-6c45e597.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-cf14dd41.webp",
+          "asset": "asset-900515d7.webp"
         },
         {
           "originalSrc": "../assets/asset-e0b53153.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-e0b53153.webp",
-          "asset": "asset-ecd632da.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-e0b53153.webp",
+          "asset": "asset-9230181a.webp"
         },
         {
           "originalSrc": "../assets/asset-8d3a59d3.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-8d3a59d3.webp",
-          "asset": "asset-6a795dbf.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-8d3a59d3.webp",
+          "asset": "asset-c0e2517f.webp"
         },
         {
           "originalSrc": "../assets/asset-f52df0f7.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-f52df0f7.webp",
-          "asset": "asset-f6bfee40.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-f52df0f7.webp",
+          "asset": "asset-d14b1980.webp"
         },
         {
           "originalSrc": "../assets/asset-03b08dd8.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-03b08dd8.webp",
-          "asset": "asset-a8bbe08b.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-03b08dd8.webp",
+          "asset": "asset-5e66fd4b.webp"
         },
         {
           "originalSrc": "../assets/asset-776c4076.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-776c4076.webp",
-          "asset": "asset-ae2ef4fa.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-776c4076.webp",
+          "asset": "asset-5acc06ba.webp"
         },
         {
           "originalSrc": "../assets/asset-fd9574a5.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-fd9574a5.webp",
-          "asset": "asset-009b87c5.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-fd9574a5.webp",
+          "asset": "asset-83eef385.webp"
         },
         {
           "originalSrc": "../assets/asset-6a9902b2.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-6a9902b2.webp",
-          "asset": "asset-9ffb78b9.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-6a9902b2.webp",
+          "asset": "asset-b4ff90f9.webp"
         },
         {
           "originalSrc": "../assets/asset-e0f391f3.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-e0f391f3.webp",
-          "asset": "asset-257b0aff.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-e0f391f3.webp",
+          "asset": "asset-114a8bbf.webp"
         },
         {
           "originalSrc": "../assets/asset-d80d1e44.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-d80d1e44.webp",
-          "asset": "asset-1c837fc4.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-d80d1e44.webp",
+          "asset": "asset-2b4f5084.webp"
         },
         {
           "originalSrc": "../assets/asset-a140cb53.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-a140cb53.webp",
-          "asset": "asset-6b36386f.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-a140cb53.webp",
+          "asset": "asset-52b4ab2f.webp"
         },
         {
           "originalSrc": "../assets/asset-891befed.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-891befed.webp",
-          "asset": "asset-3389a550.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-891befed.webp",
+          "asset": "asset-ef3db610.webp"
         },
         {
           "originalSrc": "../assets/asset-115d0d1d.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-115d0d1d.webp",
-          "asset": "asset-8feb1528.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-115d0d1d.webp",
+          "asset": "asset-cead49e8.webp"
         },
         {
           "originalSrc": "../assets/asset-afc75c28.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-afc75c28.webp",
-          "asset": "asset-a7b38ee3.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-afc75c28.webp",
+          "asset": "asset-f9aa8023.webp"
         },
         {
           "originalSrc": "../assets/asset-1f135536.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-1f135536.webp",
-          "asset": "asset-2079653e.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-1f135536.webp",
+          "asset": "asset-76fe46fe.webp"
         },
         {
           "originalSrc": "../assets/asset-ad28dac0.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-ad28dac0.webp",
-          "asset": "asset-cfe6c78b.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-ad28dac0.webp",
+          "asset": "asset-ac03ee4b.webp"
         },
         {
           "originalSrc": "../assets/asset-48ce19df.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-48ce19df.webp",
-          "asset": "asset-c018b10a.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-48ce19df.webp",
+          "asset": "asset-2d05da4a.webp"
         },
         {
           "originalSrc": "../assets/asset-b1e117ec.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-b1e117ec.webp",
-          "asset": "asset-4f7d4157.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-b1e117ec.webp",
+          "asset": "asset-43998f97.webp"
         },
         {
           "originalSrc": "../assets/asset-6a5171a8.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-6a5171a8.webp",
-          "asset": "asset-1f04bb6c.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-6a5171a8.webp",
+          "asset": "asset-7671dfac.webp"
         },
         {
           "originalSrc": "../assets/asset-4108322f.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-4108322f.webp",
-          "asset": "asset-5fe41464.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-4108322f.webp",
+          "asset": "asset-7dd86324.webp"
         },
         {
           "originalSrc": "../assets/asset-cd670417.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-cd670417.webp",
-          "asset": "asset-bbf7dc9e.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-cd670417.webp",
+          "asset": "asset-5bef1bde.webp"
         },
         {
           "originalSrc": "../assets/asset-6d5fca8a.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-6d5fca8a.webp",
-          "asset": "asset-6555b5b8.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-6d5fca8a.webp",
+          "asset": "asset-b4dc5c78.webp"
         },
         {
           "originalSrc": "../assets/asset-2ebdd59d.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-2ebdd59d.webp",
-          "asset": "asset-019a0479.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-2ebdd59d.webp",
+          "asset": "asset-53838739.webp"
         },
         {
           "originalSrc": "../assets/asset-5ca6a1bd.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-5ca6a1bd.webp",
-          "asset": "asset-53fbcf0f.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-5ca6a1bd.webp",
+          "asset": "asset-85a06dcf.webp"
         },
         {
           "originalSrc": "../assets/asset-7ac381df.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-7ac381df.webp",
-          "asset": "asset-b6e4c4ff.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-7ac381df.webp",
+          "asset": "asset-17e8463f.webp"
         },
         {
           "originalSrc": "../assets/asset-0c273273.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-0c273273.webp",
-          "asset": "asset-9e584039.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-0c273273.webp",
+          "asset": "asset-de0ad5f9.webp"
         },
         {
           "originalSrc": "../assets/asset-f9f59244.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-f9f59244.webp",
-          "asset": "asset-651c1587.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-f9f59244.webp",
+          "asset": "asset-0cf1f6c7.webp"
         },
         {
           "originalSrc": "../assets/asset-dd21e96f.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-dd21e96f.webp",
-          "asset": "asset-7b91644f.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-dd21e96f.webp",
+          "asset": "asset-bf4e168f.webp"
         },
         {
           "originalSrc": "../assets/asset-12a371aa.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-12a371aa.webp",
-          "asset": "asset-32e83111.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-12a371aa.webp",
+          "asset": "asset-3602f0d1.webp"
         },
         {
           "originalSrc": "../assets/asset-0e164745.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261027-175329/assets/asset-0e164745.webp",
-          "asset": "asset-949e37fc.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261030-014554/assets/asset-0e164745.webp",
+          "asset": "asset-a811bcbc.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/logo.webp?1791821688564",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/logo.webp?1791821688564",
           "resolvedPath": "ATTACHMENTS/SITE/logo.webp",
           "asset": "asset-e797ff9f.webp"
         }
@@ -1213,7 +1218,7 @@
         "ATTACHMENTS/SITE/cover.webp",
         "ATTACHMENTS/SITE/logo.webp"
       ],
-      "firstEmbedDom": "<span alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"ATTACHMENTS/SITE/cover.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409\"></span>",
+      "firstEmbedDom": "<span alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"ATTACHMENTS/SITE/cover.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -1257,12 +1262,12 @@
       ],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409",
           "resolvedPath": "ATTACHMENTS/SITE/cover.webp",
           "asset": "asset-ebd2c41b.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/logo.webp?1791821688564",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/logo.webp?1791821688564",
           "resolvedPath": "ATTACHMENTS/SITE/logo.webp",
           "asset": "asset-e797ff9f.webp"
         }
@@ -1333,7 +1338,7 @@
         "ELEMENTS/Υπηρεσίες.base",
         "ATTACHMENTS/SITE/logo.webp"
       ],
-      "firstEmbedDom": "<span alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"ATTACHMENTS/SITE/cover.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409\"></span>",
+      "firstEmbedDom": "<span alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"ATTACHMENTS/SITE/cover.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409\"></span>",
       "embedQueryHits": [
         {
           "path": "root._children[1]._children[0]._children[6].data",
@@ -1394,12 +1399,12 @@
       ],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409",
           "resolvedPath": "ATTACHMENTS/SITE/cover.webp",
           "asset": "asset-ebd2c41b.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/logo.webp?1791821688564",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/logo.webp?1791821688564",
           "resolvedPath": "ATTACHMENTS/SITE/logo.webp",
           "asset": "asset-e797ff9f.webp"
         }
@@ -1423,7 +1428,7 @@
         "ATTACHMENTS/SITE/cover.webp",
         "ATTACHMENTS/SITE/logo.webp"
       ],
-      "firstEmbedDom": "<span alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"ATTACHMENTS/SITE/cover.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409\"></span>",
+      "firstEmbedDom": "<span alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"ATTACHMENTS/SITE/cover.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -1467,12 +1472,12 @@
       ],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409",
           "resolvedPath": "ATTACHMENTS/SITE/cover.webp",
           "asset": "asset-ebd2c41b.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/logo.webp?1791821688564",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/logo.webp?1791821688564",
           "resolvedPath": "ATTACHMENTS/SITE/logo.webp",
           "asset": "asset-e797ff9f.webp"
         }
@@ -1548,7 +1553,7 @@
       "embedSrcs": [
         "Against all odds.webp"
       ],
-      "firstEmbedDom": "<span width=\"400\" alt=\"Against all odds.webp\" src=\"Against all odds.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Against all odds.webp\" width=\"400\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/Against%20all%20odds.webp?1792838045262\"></span>",
+      "firstEmbedDom": "<span width=\"400\" alt=\"Against all odds.webp\" src=\"Against all odds.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Against all odds.webp\" width=\"400\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/Against%20all%20odds.webp?1792838045262\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -1559,7 +1564,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/Against%20all%20odds.webp?1792838045262",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/Against%20all%20odds.webp?1792838045262",
           "resolvedPath": "ATTACHMENTS/BLOG/Against all odds.webp",
           "asset": "asset-1fb00ec3.webp"
         }
@@ -1576,7 +1581,7 @@
       "embedSrcs": [
         "Still standing.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"Still standing.webp\" src=\"Still standing.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Still standing.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/Still%20standing.webp?1792840732174\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"Still standing.webp\" src=\"Still standing.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Still standing.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/Still%20standing.webp?1792840732174\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -1587,7 +1592,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/Still%20standing.webp?1792840732174",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/Still%20standing.webp?1792840732174",
           "resolvedPath": "ATTACHMENTS/BLOG/Still standing.webp",
           "asset": "asset-3b5897d3.webp"
         }
@@ -1604,7 +1609,7 @@
       "embedSrcs": [
         "Κοχύλια.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"Κοχύλια.webp\" src=\"Κοχύλια.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Κοχύλια.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/%CE%9A%CE%BF%CF%87%CF%8D%CE%BB%CE%B9%CE%B1.webp?1792840424291\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"Κοχύλια.webp\" src=\"Κοχύλια.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Κοχύλια.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/%CE%9A%CE%BF%CF%87%CF%8D%CE%BB%CE%B9%CE%B1.webp?1792840424291\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -1615,7 +1620,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/%CE%9A%CE%BF%CF%87%CF%8D%CE%BB%CE%B9%CE%B1.webp?1792840424291",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/%CE%9A%CE%BF%CF%87%CF%8D%CE%BB%CE%B9%CE%B1.webp?1792840424291",
           "resolvedPath": "ATTACHMENTS/BLOG/Κοχύλια.webp",
           "asset": "asset-30f8eed5.webp"
         }
@@ -1638,7 +1643,7 @@
       "embedSrcs": [
         "Δυστοπία.webp"
       ],
-      "firstEmbedDom": "<span width=\"400\" alt=\"Δυστοπία.webp\" src=\"Δυστοπία.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Δυστοπία.webp\" width=\"400\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/%CE%94%CF%85%CF%83%CF%84%CE%BF%CF%80%CE%AF%CE%B1.webp?1792840650286\"></span>",
+      "firstEmbedDom": "<span width=\"400\" alt=\"Δυστοπία.webp\" src=\"Δυστοπία.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Δυστοπία.webp\" width=\"400\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/%CE%94%CF%85%CF%83%CF%84%CE%BF%CF%80%CE%AF%CE%B1.webp?1792840650286\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -1649,7 +1654,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/%CE%94%CF%85%CF%83%CF%84%CE%BF%CF%80%CE%AF%CE%B1.webp?1792840650286",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/%CE%94%CF%85%CF%83%CF%84%CE%BF%CF%80%CE%AF%CE%B1.webp?1792840650286",
           "resolvedPath": "ATTACHMENTS/BLOG/Δυστοπία.webp",
           "asset": "asset-a5459f64.webp"
         }
@@ -1735,11 +1740,55 @@
       "foldableSections": 7
     },
     {
+      "path": "ELEMENTS/BLOG/Ηλεκτρονικό βιβλίο υποδείξεων Τεχνικού Ασφαλείας.md",
+      "links": [],
+      "images": [],
+      "embedSpanCount": 0,
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "h3",
+        "p",
+        "p",
+        "h3",
+        "p",
+        "p",
+        "p",
+        "h3",
+        "p",
+        "p",
+        "p",
+        "p",
+        "h3",
+        "p",
+        "p",
+        "p",
+        "p",
+        "p",
+        "p",
+        "p",
+        "p",
+        "h3",
+        "p",
+        "p",
+        "p",
+        "p",
+        "h3",
+        "p",
+        "p",
+        "p",
+        "h3",
+        "p",
+        "p",
+        "p"
+      ],
+      "foldableSections": 7
+    },
+    {
       "path": "ELEMENTS/BLOG/Μισακό.md",
       "embedSrcs": [
         "Μισακό.webp"
       ],
-      "firstEmbedDom": "<span width=\"400\" alt=\"Μισακό.webp\" src=\"Μισακό.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Μισακό.webp\" width=\"400\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/%CE%9C%CE%B9%CF%83%CE%B1%CE%BA%CF%8C.webp?1792837892121\"></span>",
+      "firstEmbedDom": "<span width=\"400\" alt=\"Μισακό.webp\" src=\"Μισακό.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Μισακό.webp\" width=\"400\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/%CE%9C%CE%B9%CF%83%CE%B1%CE%BA%CF%8C.webp?1792837892121\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -1750,7 +1799,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/%CE%9C%CE%B9%CF%83%CE%B1%CE%BA%CF%8C.webp?1792837892121",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/%CE%9C%CE%B9%CF%83%CE%B1%CE%BA%CF%8C.webp?1792837892121",
           "resolvedPath": "ATTACHMENTS/BLOG/Μισακό.webp",
           "asset": "asset-38e79ac2.webp"
         }
@@ -1767,7 +1816,7 @@
       "embedSrcs": [
         "Σπιτάκι.webp"
       ],
-      "firstEmbedDom": "<span width=\"400\" alt=\"Σπιτάκι.webp\" src=\"Σπιτάκι.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Σπιτάκι.webp\" width=\"400\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/%CE%A3%CF%80%CE%B9%CF%84%CE%AC%CE%BA%CE%B9.webp?1792840522923\"></span>",
+      "firstEmbedDom": "<span width=\"400\" alt=\"Σπιτάκι.webp\" src=\"Σπιτάκι.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Σπιτάκι.webp\" width=\"400\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/%CE%A3%CF%80%CE%B9%CF%84%CE%AC%CE%BA%CE%B9.webp?1792840522923\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -1778,7 +1827,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/%CE%A3%CF%80%CE%B9%CF%84%CE%AC%CE%BA%CE%B9.webp?1792840522923",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/%CE%A3%CF%80%CE%B9%CF%84%CE%AC%CE%BA%CE%B9.webp?1792840522923",
           "resolvedPath": "ATTACHMENTS/BLOG/Σπιτάκι.webp",
           "asset": "asset-00a7712e.webp"
         }
@@ -1796,7 +1845,7 @@
       "embedSrcs": [
         "Παράθυρο με θέα.webp"
       ],
-      "firstEmbedDom": "<span width=\"400\" alt=\"Παράθυρο με θέα.webp\" src=\"Παράθυρο με θέα.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Παράθυρο με θέα.webp\" width=\"400\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/%CE%A0%CE%B1%CF%81%CE%AC%CE%B8%CF%85%CF%81%CE%BF%20%CE%BC%CE%B5%20%CE%B8%CE%AD%CE%B1.webp?1792840698620\"></span>",
+      "firstEmbedDom": "<span width=\"400\" alt=\"Παράθυρο με θέα.webp\" src=\"Παράθυρο με θέα.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Παράθυρο με θέα.webp\" width=\"400\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/%CE%A0%CE%B1%CF%81%CE%AC%CE%B8%CF%85%CF%81%CE%BF%20%CE%BC%CE%B5%20%CE%B8%CE%AD%CE%B1.webp?1792840698620\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -1807,7 +1856,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/%CE%A0%CE%B1%CF%81%CE%AC%CE%B8%CF%85%CF%81%CE%BF%20%CE%BC%CE%B5%20%CE%B8%CE%AD%CE%B1.webp?1792840698620",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/%CE%A0%CE%B1%CF%81%CE%AC%CE%B8%CF%85%CF%81%CE%BF%20%CE%BC%CE%B5%20%CE%B8%CE%AD%CE%B1.webp?1792840698620",
           "resolvedPath": "ATTACHMENTS/BLOG/Παράθυρο με θέα.webp",
           "asset": "asset-e08f1f01.webp"
         }
@@ -1865,7 +1914,7 @@
         "Vitruvius.webp",
         "Galaxy.webp"
       ],
-      "firstEmbedDom": "<span alt=\"Fibonacci spiral black.webp\" src=\"Fibonacci spiral black.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Fibonacci spiral black.webp\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/Fibonacci%20spiral%20black.webp?1792840762262\"></span>",
+      "firstEmbedDom": "<span alt=\"Fibonacci spiral black.webp\" src=\"Fibonacci spiral black.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Fibonacci spiral black.webp\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/Fibonacci%20spiral%20black.webp?1792840762262\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -1896,32 +1945,32 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/Fibonacci%20spiral%20black.webp?1792840762262",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/Fibonacci%20spiral%20black.webp?1792840762262",
           "resolvedPath": "ATTACHMENTS/BLOG/Fibonacci spiral black.webp",
           "asset": "asset-625577df.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/Fibonacci%20spiral.webp?1792842207383",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/Fibonacci%20spiral.webp?1792842207383",
           "resolvedPath": "ATTACHMENTS/BLOG/Fibonacci spiral.webp",
           "asset": "asset-8b5fa652.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/Sunflower.webp?1792842939306",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/Sunflower.webp?1792842939306",
           "resolvedPath": "ATTACHMENTS/BLOG/Sunflower.webp",
           "asset": "asset-288235c4.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/%CE%9A%CE%BF%CF%87%CF%8D%CE%BB%CE%B9%CE%B1.webp?1792840424291",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/%CE%9A%CE%BF%CF%87%CF%8D%CE%BB%CE%B9%CE%B1.webp?1792840424291",
           "resolvedPath": "ATTACHMENTS/BLOG/Κοχύλια.webp",
           "asset": "asset-30f8eed5.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/Vitruvius.webp?1792842989435",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/Vitruvius.webp?1792842989435",
           "resolvedPath": "ATTACHMENTS/BLOG/Vitruvius.webp",
           "asset": "asset-5e6c10ee.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/Galaxy.webp?1792843012907",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/Galaxy.webp?1792843012907",
           "resolvedPath": "ATTACHMENTS/BLOG/Galaxy.webp",
           "asset": "asset-ad4732d1.webp"
         }
@@ -1953,7 +2002,7 @@
       "embedSrcs": [
         "Υπηρετικόν προσωπικόν.webp"
       ],
-      "firstEmbedDom": "<span alt=\"Υπηρετικόν προσωπικόν.webp\" src=\"Υπηρετικόν προσωπικόν.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Υπηρετικόν προσωπικόν.webp\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/%CE%A5%CF%80%CE%B7%CF%81%CE%B5%CF%84%CE%B9%CE%BA%CF%8C%CE%BD%20%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CF%8C%CE%BD.webp?1792838081420\"></span>",
+      "firstEmbedDom": "<span alt=\"Υπηρετικόν προσωπικόν.webp\" src=\"Υπηρετικόν προσωπικόν.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Υπηρετικόν προσωπικόν.webp\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/%CE%A5%CF%80%CE%B7%CF%81%CE%B5%CF%84%CE%B9%CE%BA%CF%8C%CE%BD%20%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CF%8C%CE%BD.webp?1792838081420\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -1964,7 +2013,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/%CE%A5%CF%80%CE%B7%CF%81%CE%B5%CF%84%CE%B9%CE%BA%CF%8C%CE%BD%20%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CF%8C%CE%BD.webp?1792838081420",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/%CE%A5%CF%80%CE%B7%CF%81%CE%B5%CF%84%CE%B9%CE%BA%CF%8C%CE%BD%20%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CF%8C%CE%BD.webp?1792838081420",
           "resolvedPath": "ATTACHMENTS/BLOG/Υπηρετικόν προσωπικόν.webp",
           "asset": "asset-3ba17917.webp"
         }
@@ -1982,7 +2031,7 @@
       "embedSrcs": [
         "akoka.webp"
       ],
-      "firstEmbedDom": "<span alt=\"akoka.webp\" src=\"akoka.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"akoka.webp\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/akoka.webp?1792797635568\"></span>",
+      "firstEmbedDom": "<span alt=\"akoka.webp\" src=\"akoka.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"akoka.webp\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/akoka.webp?1792797635568\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -1993,7 +2042,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/akoka.webp?1792797635568",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/akoka.webp?1792797635568",
           "resolvedPath": "ATTACHMENTS/ΕΜΕΙΣ/akoka.webp",
           "asset": "asset-49490864.webp"
         }
@@ -2011,7 +2060,7 @@
       "embedSrcs": [
         "pervolarakis.webp"
       ],
-      "firstEmbedDom": "<span alt=\"pervolarakis.webp\" src=\"pervolarakis.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"pervolarakis.webp\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/pervolarakis.webp?1792797546090\"></span>",
+      "firstEmbedDom": "<span alt=\"pervolarakis.webp\" src=\"pervolarakis.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"pervolarakis.webp\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/pervolarakis.webp?1792797546090\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -2022,7 +2071,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/pervolarakis.webp?1792797546090",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/pervolarakis.webp?1792797546090",
           "resolvedPath": "ATTACHMENTS/ΕΜΕΙΣ/pervolarakis.webp",
           "asset": "asset-4b3dcd94.webp"
         }
@@ -2040,7 +2089,7 @@
       "embedSrcs": [
         "poimenidis.webp"
       ],
-      "firstEmbedDom": "<span alt=\"poimenidis.webp\" src=\"poimenidis.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"poimenidis.webp\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/poimenidis.webp?1792797456114\"></span>",
+      "firstEmbedDom": "<span alt=\"poimenidis.webp\" src=\"poimenidis.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"poimenidis.webp\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/poimenidis.webp?1792797456114\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -2051,7 +2100,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/poimenidis.webp?1792797456114",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/poimenidis.webp?1792797456114",
           "resolvedPath": "ATTACHMENTS/ΕΜΕΙΣ/poimenidis.webp",
           "asset": "asset-2b8be58a.webp"
         }
@@ -2069,7 +2118,7 @@
       "embedSrcs": [
         "kkokas.webp"
       ],
-      "firstEmbedDom": "<span alt=\"kkokas.webp\" src=\"kkokas.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"kkokas.webp\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/kkokas.webp?1792797707083\"></span>",
+      "firstEmbedDom": "<span alt=\"kkokas.webp\" src=\"kkokas.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"kkokas.webp\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/kkokas.webp?1792797707083\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -2080,7 +2129,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/kkokas.webp?1792797707083",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/kkokas.webp?1792797707083",
           "resolvedPath": "ATTACHMENTS/ΕΜΕΙΣ/kkokas.webp",
           "asset": "asset-3a6987c1.webp"
         }
@@ -2098,7 +2147,7 @@
       "embedSrcs": [
         "palantas.webp"
       ],
-      "firstEmbedDom": "<span alt=\"palantas.webp\" src=\"palantas.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"palantas.webp\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/palantas.webp?1792798400088\"></span>",
+      "firstEmbedDom": "<span alt=\"palantas.webp\" src=\"palantas.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"palantas.webp\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/palantas.webp?1792798400088\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -2109,7 +2158,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/palantas.webp?1792798400088",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/palantas.webp?1792798400088",
           "resolvedPath": "ATTACHMENTS/ΕΜΕΙΣ/palantas.webp",
           "asset": "asset-2c30ead7.webp"
         }
@@ -2128,7 +2177,7 @@
         "Koronakis.webp",
         "Koronakis2.webp"
       ],
-      "firstEmbedDom": "<span alt=\"Koronakis.webp\" src=\"Koronakis.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Koronakis.webp\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Koronakis.webp?1792537785829\"></span>",
+      "firstEmbedDom": "<span alt=\"Koronakis.webp\" src=\"Koronakis.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Koronakis.webp\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Koronakis.webp?1792537785829\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -2143,12 +2192,12 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Koronakis.webp?1792537785829",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Koronakis.webp?1792537785829",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Koronakis.webp",
           "asset": "asset-d5160a22.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Koronakis2.webp?1792537825097",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Koronakis2.webp?1792537825097",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Koronakis2.webp",
           "asset": "asset-1361ddd8.webp"
         }
@@ -2167,7 +2216,7 @@
       "embedSrcs": [
         "Helnet.webp"
       ],
-      "firstEmbedDom": "<span alt=\"Helnet.webp\" src=\"Helnet.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Helnet.webp\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Helnet.webp?1792537664884\"></span>",
+      "firstEmbedDom": "<span alt=\"Helnet.webp\" src=\"Helnet.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Helnet.webp\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Helnet.webp?1792537664884\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -2178,7 +2227,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Helnet.webp?1792537664884",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Helnet.webp?1792537664884",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Helnet.webp",
           "asset": "asset-b5787fb7.webp"
         }
@@ -2196,7 +2245,7 @@
       "embedSrcs": [
         "Diatiriteo Exarhia.webp"
       ],
-      "firstEmbedDom": "<span alt=\"Diatiriteo Exarhia.webp\" src=\"Diatiriteo Exarhia.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Diatiriteo Exarhia.webp\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Diatiriteo%20Exarhia.webp?1792540748861\"></span>",
+      "firstEmbedDom": "<span alt=\"Diatiriteo Exarhia.webp\" src=\"Diatiriteo Exarhia.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Diatiriteo Exarhia.webp\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Diatiriteo%20Exarhia.webp?1792540748861\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -2207,7 +2256,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Diatiriteo%20Exarhia.webp?1792540748861",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Diatiriteo%20Exarhia.webp?1792540748861",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Diatiriteo Exarhia.webp",
           "asset": "asset-1462cccf.webp"
         }
@@ -2225,7 +2274,7 @@
       "embedSrcs": [
         "Petralona.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"Petralona.webp\" src=\"Petralona.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Petralona.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Petralona.webp?1792711003310\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"Petralona.webp\" src=\"Petralona.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Petralona.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Petralona.webp?1792711003310\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -2236,7 +2285,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Petralona.webp?1792711003310",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Petralona.webp?1792711003310",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Petralona.webp",
           "asset": "asset-fd9574a5.webp"
         }
@@ -2254,7 +2303,7 @@
       "embedSrcs": [
         "Pikermi.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"Pikermi.webp\" src=\"Pikermi.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Pikermi.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Pikermi.webp?1792713022528\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"Pikermi.webp\" src=\"Pikermi.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Pikermi.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Pikermi.webp?1792713022528\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -2265,7 +2314,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Pikermi.webp?1792713022528",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Pikermi.webp?1792713022528",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Pikermi.webp",
           "asset": "asset-6a9902b2.webp"
         }
@@ -2283,7 +2332,7 @@
       "embedSrcs": [
         "MarksnSpencer.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"MarksnSpencer.webp\" src=\"MarksnSpencer.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"MarksnSpencer.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/MarksnSpencer.webp?1792541169443\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"MarksnSpencer.webp\" src=\"MarksnSpencer.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"MarksnSpencer.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/MarksnSpencer.webp?1792541169443\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -2294,7 +2343,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/MarksnSpencer.webp?1792541169443",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/MarksnSpencer.webp?1792541169443",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/MarksnSpencer.webp",
           "asset": "asset-fb152b73.webp"
         }
@@ -2312,7 +2361,7 @@
       "embedSrcs": [
         "Ergastirio zymarikon.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"Ergastirio zymarikon.webp\" src=\"Ergastirio zymarikon.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Ergastirio zymarikon.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Ergastirio%20zymarikon.webp?1792708310000\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"Ergastirio zymarikon.webp\" src=\"Ergastirio zymarikon.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Ergastirio zymarikon.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Ergastirio%20zymarikon.webp?1792708310000\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -2323,7 +2372,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Ergastirio%20zymarikon.webp?1792708310000",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Ergastirio%20zymarikon.webp?1792708310000",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Ergastirio zymarikon.webp",
           "asset": "asset-03934234.webp"
         }
@@ -2341,7 +2390,7 @@
       "embedSrcs": [
         "The_roosters_egg.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"The_roosters_egg.webp\" src=\"The_roosters_egg.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"The_roosters_egg.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/The_roosters_egg.webp?1792710240713\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"The_roosters_egg.webp\" src=\"The_roosters_egg.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"The_roosters_egg.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/The_roosters_egg.webp?1792710240713\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -2352,7 +2401,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/The_roosters_egg.webp?1792710240713",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/The_roosters_egg.webp?1792710240713",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/The_roosters_egg.webp",
           "asset": "asset-ee74e27a.webp"
         }
@@ -2370,7 +2419,7 @@
       "embedSrcs": [
         "Zuzuto.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"Zuzuto.webp\" src=\"Zuzuto.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Zuzuto.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Zuzuto.webp?1792709465741\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"Zuzuto.webp\" src=\"Zuzuto.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Zuzuto.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Zuzuto.webp?1792709465741\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -2381,7 +2430,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Zuzuto.webp?1792709465741",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Zuzuto.webp?1792709465741",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Zuzuto.webp",
           "asset": "asset-0b13f380.webp"
         }
@@ -2399,7 +2448,7 @@
       "embedSrcs": [
         "Alargino rakadiko.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"Alargino rakadiko.webp\" src=\"Alargino rakadiko.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Alargino rakadiko.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Alargino%20rakadiko.webp?1792708506509\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"Alargino rakadiko.webp\" src=\"Alargino rakadiko.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Alargino rakadiko.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Alargino%20rakadiko.webp?1792708506509\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -2410,7 +2459,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Alargino%20rakadiko.webp?1792708506509",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Alargino%20rakadiko.webp?1792708506509",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Alargino rakadiko.webp",
           "asset": "asset-6505d988.webp"
         }
@@ -2430,7 +2479,7 @@
         "Berytus 2.webp",
         "Berytus 3.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"Berytus.webp\" src=\"Berytus.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Berytus.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Berytus.webp?1792709855478\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"Berytus.webp\" src=\"Berytus.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Berytus.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Berytus.webp?1792709855478\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -2449,17 +2498,17 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Berytus.webp?1792709855478",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Berytus.webp?1792709855478",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Berytus.webp",
           "asset": "asset-cf14dd41.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Berytus%202.webp?1792709898742",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Berytus%202.webp?1792709898742",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Berytus 2.webp",
           "asset": "asset-b49eca37.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Berytus%203.webp?1792709919430",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Berytus%203.webp?1792709919430",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Berytus 3.webp",
           "asset": "asset-aa87636e.webp"
         }
@@ -2482,7 +2531,7 @@
         "Iatreio_Glyfada 3.webp",
         "Iatreio_Glyfada 4.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"Iatreio_Glyfada.webp\" src=\"Iatreio_Glyfada.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Iatreio_Glyfada.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Iatreio_Glyfada.webp?1792716827455\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"Iatreio_Glyfada.webp\" src=\"Iatreio_Glyfada.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Iatreio_Glyfada.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Iatreio_Glyfada.webp?1792716827455\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -2505,22 +2554,22 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Iatreio_Glyfada.webp?1792716827455",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Iatreio_Glyfada.webp?1792716827455",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Iatreio_Glyfada.webp",
           "asset": "asset-5ca6a1bd.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Iatreio_Glyfada%202.webp?1792716852951",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Iatreio_Glyfada%202.webp?1792716852951",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Iatreio_Glyfada 2.webp",
           "asset": "asset-5de787c3.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Iatreio_Glyfada%203.webp?1792716870553",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Iatreio_Glyfada%203.webp?1792716870553",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Iatreio_Glyfada 3.webp",
           "asset": "asset-1870458a.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Iatreio_Glyfada%204.webp?1792716890273",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Iatreio_Glyfada%204.webp?1792716890273",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Iatreio_Glyfada 4.webp",
           "asset": "asset-c09a3f31.webp"
         }
@@ -2542,7 +2591,7 @@
         "Di_Frans.webp",
         "Di_Frans_2.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"Di_Frans.webp\" src=\"Di_Frans.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Di_Frans.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Di_Frans.webp?1792708774832\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"Di_Frans.webp\" src=\"Di_Frans.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Di_Frans.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Di_Frans.webp?1792708774832\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -2557,12 +2606,12 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Di_Frans.webp?1792708774832",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Di_Frans.webp?1792708774832",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Di_Frans.webp",
           "asset": "asset-e0b53153.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Di_Frans_2.webp?1792708855909",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Di_Frans_2.webp?1792708855909",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Di_Frans_2.webp",
           "asset": "asset-dda8a044.webp"
         }
@@ -2581,7 +2630,7 @@
       "embedSrcs": [
         "Les_Hiboux.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"Les_Hiboux.webp\" src=\"Les_Hiboux.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Les_Hiboux.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Les_Hiboux.webp?1792709648230\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"Les_Hiboux.webp\" src=\"Les_Hiboux.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Les_Hiboux.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Les_Hiboux.webp?1792709648230\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -2592,7 +2641,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Les_Hiboux.webp?1792709648230",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Les_Hiboux.webp?1792709648230",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Les_Hiboux.webp",
           "asset": "asset-8d3a59d3.webp"
         }
@@ -2610,7 +2659,7 @@
       "embedSrcs": [
         "Snack bar Zografou.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"Snack bar Zografou.webp\" src=\"Snack bar Zografou.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Snack bar Zografou.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Snack%20bar%20Zografou.webp?1792708975812\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"Snack bar Zografou.webp\" src=\"Snack bar Zografou.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Snack bar Zografou.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Snack%20bar%20Zografou.webp?1792708975812\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -2621,7 +2670,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Snack%20bar%20Zografou.webp?1792708975812",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Snack%20bar%20Zografou.webp?1792708975812",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Snack bar Zografou.webp",
           "asset": "asset-f52df0f7.webp"
         }
@@ -2641,7 +2690,7 @@
         "Elliniko2.webp",
         "Elliniko3.webp"
       ],
-      "firstEmbedDom": "<span alt=\"Elliniko.webp\" src=\"Elliniko.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Elliniko.webp\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Elliniko.webp?1792539413096\"></span>",
+      "firstEmbedDom": "<span alt=\"Elliniko.webp\" src=\"Elliniko.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Elliniko.webp\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Elliniko.webp?1792539413096\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -2660,17 +2709,17 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Elliniko.webp?1792539413096",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Elliniko.webp?1792539413096",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Elliniko.webp",
           "asset": "asset-76b61914.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Elliniko2.webp?1792539445443",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Elliniko2.webp?1792539445443",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Elliniko2.webp",
           "asset": "asset-b0a9d83a.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Elliniko3.webp?1792539478991",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Elliniko3.webp?1792539478991",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Elliniko3.webp",
           "asset": "asset-aa9e77b3.webp"
         }
@@ -2690,7 +2739,7 @@
       "embedSrcs": [
         "OmilosV.webp"
       ],
-      "firstEmbedDom": "<span alt=\"OmilosV.webp\" src=\"OmilosV.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"OmilosV.webp\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/OmilosV.webp?1792538666804\"></span>",
+      "firstEmbedDom": "<span alt=\"OmilosV.webp\" src=\"OmilosV.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"OmilosV.webp\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/OmilosV.webp?1792538666804\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -2701,7 +2750,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/OmilosV.webp?1792538666804",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/OmilosV.webp?1792538666804",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/OmilosV.webp",
           "asset": "asset-7beee698.webp"
         }
@@ -2719,7 +2768,7 @@
       "embedSrcs": [
         "Mondelez.webp"
       ],
-      "firstEmbedDom": "<span alt=\"Mondelez.webp\" src=\"Mondelez.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Mondelez.webp\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Mondelez.webp?1792539720178\"></span>",
+      "firstEmbedDom": "<span alt=\"Mondelez.webp\" src=\"Mondelez.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Mondelez.webp\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Mondelez.webp?1792539720178\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -2730,7 +2779,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Mondelez.webp?1792539720178",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Mondelez.webp?1792539720178",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Mondelez.webp",
           "asset": "asset-d9bbe57f.webp"
         }
@@ -2748,7 +2797,7 @@
       "embedSrcs": [
         "Real_Consulting.webp"
       ],
-      "firstEmbedDom": "<span alt=\"Real_Consulting.webp\" src=\"Real_Consulting.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Real_Consulting.webp\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Real_Consulting.webp?1792537957897\"></span>",
+      "firstEmbedDom": "<span alt=\"Real_Consulting.webp\" src=\"Real_Consulting.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Real_Consulting.webp\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Real_Consulting.webp?1792537957897\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -2759,7 +2808,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Real_Consulting.webp?1792537957897",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Real_Consulting.webp?1792537957897",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Real_Consulting.webp",
           "asset": "asset-b1d3bf9e.webp"
         }
@@ -2777,7 +2826,7 @@
       "embedSrcs": [
         "Kivotos.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"Kivotos.webp\" src=\"Kivotos.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Kivotos.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Kivotos.webp?1792715581621\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"Kivotos.webp\" src=\"Kivotos.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Kivotos.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Kivotos.webp?1792715581621\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -2788,7 +2837,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Kivotos.webp?1792715581621",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Kivotos.webp?1792715581621",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Kivotos.webp",
           "asset": "asset-6a5171a8.webp"
         }
@@ -2808,7 +2857,7 @@
         "Vet_in_progress_plus 2.webp",
         "Vet_in_progress_plus 3.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"Vet_in_progress_plus.webp\" src=\"Vet_in_progress_plus.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Vet_in_progress_plus.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Vet_in_progress_plus.webp?1792716674290\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"Vet_in_progress_plus.webp\" src=\"Vet_in_progress_plus.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Vet_in_progress_plus.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Vet_in_progress_plus.webp?1792716674290\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -2827,17 +2876,17 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Vet_in_progress_plus.webp?1792716674290",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Vet_in_progress_plus.webp?1792716674290",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Vet_in_progress_plus.webp",
           "asset": "asset-7ac381df.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Vet_in_progress_plus%202.webp?1792716696883",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Vet_in_progress_plus%202.webp?1792716696883",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Vet_in_progress_plus 2.webp",
           "asset": "asset-5f43b049.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Vet_in_progress_plus%203.webp?1792716718135",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Vet_in_progress_plus%203.webp?1792716718135",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Vet_in_progress_plus 3.webp",
           "asset": "asset-09288358.webp"
         }
@@ -2862,7 +2911,7 @@
         "akra 5.webp",
         "akra 6.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"akra.webp\" src=\"akra.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"akra.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/akra.webp?1792714766042\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"akra.webp\" src=\"akra.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"akra.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/akra.webp?1792714766042\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -2893,32 +2942,32 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/akra.webp?1792714766042",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/akra.webp?1792714766042",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/akra.webp",
           "asset": "asset-f9f59244.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/akra%202.webp?1792714792044",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/akra%202.webp?1792714792044",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/akra 2.webp",
           "asset": "asset-43948b2a.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/akra%203.webp?1792714807192",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/akra%203.webp?1792714807192",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/akra 3.webp",
           "asset": "asset-890bcd63.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/akra%204.webp?1792714826242",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/akra%204.webp?1792714826242",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/akra 4.webp",
           "asset": "asset-8e5c3640.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/akra%205.webp?1792714842128",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/akra%205.webp?1792714842128",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/akra 5.webp",
           "asset": "asset-41db3c51.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/akra%206.webp?1792714860243",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/akra%206.webp?1792714860243",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/akra 6.webp",
           "asset": "asset-0f27d996.webp"
         }
@@ -2941,7 +2990,7 @@
       "embedSrcs": [
         "m-p nea smirni.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"m-p nea smirni.webp\" src=\"m-p nea smirni.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"m-p nea smirni.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/m-p%20nea%20smirni.webp?1792714077963\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"m-p nea smirni.webp\" src=\"m-p nea smirni.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"m-p nea smirni.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/m-p%20nea%20smirni.webp?1792714077963\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -2952,7 +3001,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/m-p%20nea%20smirni.webp?1792714077963",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/m-p%20nea%20smirni.webp?1792714077963",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/m-p nea smirni.webp",
           "asset": "asset-dd21e96f.webp"
         }
@@ -2972,7 +3021,7 @@
         "the-beauty-spot 2.webp",
         "the-beauty-spot 3.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"the-beauty-spot.webp\" src=\"the-beauty-spot.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"the-beauty-spot.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/the-beauty-spot.webp?1792713694103\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"the-beauty-spot.webp\" src=\"the-beauty-spot.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"the-beauty-spot.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/the-beauty-spot.webp?1792713694103\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -2991,17 +3040,17 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/the-beauty-spot.webp?1792713694103",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/the-beauty-spot.webp?1792713694103",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/the-beauty-spot.webp",
           "asset": "asset-12a371aa.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/the-beauty-spot%202.webp?1792713717407",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/the-beauty-spot%202.webp?1792713717407",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/the-beauty-spot 2.webp",
           "asset": "asset-9810bdf4.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/the-beauty-spot%203.webp?1792713757650",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/the-beauty-spot%203.webp?1792713757650",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/the-beauty-spot 3.webp",
           "asset": "asset-d4940405.webp"
         }
@@ -3023,7 +3072,7 @@
         "Nomie_Nails__Beauty 2.webp",
         "Nomie_Nails__Beauty 3.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"Nomie_Nails__Beauty.webp\" src=\"Nomie_Nails__Beauty.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Nomie_Nails__Beauty.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Nomie_Nails__Beauty.webp?1792714329682\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"Nomie_Nails__Beauty.webp\" src=\"Nomie_Nails__Beauty.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Nomie_Nails__Beauty.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Nomie_Nails__Beauty.webp?1792714329682\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -3042,17 +3091,17 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Nomie_Nails__Beauty.webp?1792714329682",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Nomie_Nails__Beauty.webp?1792714329682",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Nomie_Nails__Beauty.webp",
           "asset": "asset-0e164745.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Nomie_Nails__Beauty%202.webp?1792714368400",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Nomie_Nails__Beauty%202.webp?1792714368400",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Nomie_Nails__Beauty 2.webp",
           "asset": "asset-6cc760ab.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Nomie_Nails__Beauty%203.webp?1792714393884",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Nomie_Nails__Beauty%203.webp?1792714393884",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Nomie_Nails__Beauty 3.webp",
           "asset": "asset-a776ec92.webp"
         }
@@ -3073,7 +3122,7 @@
         "The_roosters_egg_hotel.webp",
         "The_roosters_egg_hotel 2.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"The_roosters_egg_hotel.webp\" src=\"The_roosters_egg_hotel.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"The_roosters_egg_hotel.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/The_roosters_egg_hotel.webp?1792716481280\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"The_roosters_egg_hotel.webp\" src=\"The_roosters_egg_hotel.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"The_roosters_egg_hotel.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/The_roosters_egg_hotel.webp?1792716481280\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -3088,12 +3137,12 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/The_roosters_egg_hotel.webp?1792716481280",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/The_roosters_egg_hotel.webp?1792716481280",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/The_roosters_egg_hotel.webp",
           "asset": "asset-2ebdd59d.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/The_roosters_egg_hotel%202.webp?1792716513304",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/The_roosters_egg_hotel%202.webp?1792716513304",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/The_roosters_egg_hotel 2.webp",
           "asset": "asset-81e3afa3.webp"
         }
@@ -3114,7 +3163,7 @@
         "Nest_kids_play_cafe 2.webp",
         "piou piou 3.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"Nest_kids_play_cafe.webp\" src=\"Nest_kids_play_cafe.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Nest_kids_play_cafe.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Nest_kids_play_cafe.webp?1792715407213\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"Nest_kids_play_cafe.webp\" src=\"Nest_kids_play_cafe.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Nest_kids_play_cafe.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Nest_kids_play_cafe.webp?1792715407213\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -3133,17 +3182,17 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Nest_kids_play_cafe.webp?1792715407213",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Nest_kids_play_cafe.webp?1792715407213",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Nest_kids_play_cafe.webp",
           "asset": "asset-b1e117ec.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Nest_kids_play_cafe%202.webp?1792715438303",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Nest_kids_play_cafe%202.webp?1792715438303",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Nest_kids_play_cafe 2.webp",
           "asset": "asset-bd37f8b2.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/piou%20piou%203.webp?1792715232554",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/piou%20piou%203.webp?1792715232554",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/piou piou 3.webp",
           "asset": "asset-c7f0db58.webp"
         }
@@ -3165,7 +3214,7 @@
         "piou piou 2.webp",
         "piou piou 3.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"piou piou.webp\" src=\"piou piou.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"piou piou.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/piou%20piou.webp?1792715178972\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"piou piou.webp\" src=\"piou piou.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"piou piou.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/piou%20piou.webp?1792715178972\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -3184,17 +3233,17 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/piou%20piou.webp?1792715178972",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/piou%20piou.webp?1792715178972",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/piou piou.webp",
           "asset": "asset-48ce19df.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/piou%20piou%202.webp?1792715209555",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/piou%20piou%202.webp?1792715209555",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/piou piou 2.webp",
           "asset": "asset-1e0c0849.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/piou%20piou%203.webp?1792715232554",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/piou%20piou%203.webp?1792715232554",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/piou piou 3.webp",
           "asset": "asset-c7f0db58.webp"
         }
@@ -3214,7 +3263,7 @@
       "embedSrcs": [
         "Asteroskopeio.webp"
       ],
-      "firstEmbedDom": "<span alt=\"Asteroskopeio.webp\" src=\"Asteroskopeio.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Asteroskopeio.webp\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Asteroskopeio.webp?1792539988683\"></span>",
+      "firstEmbedDom": "<span alt=\"Asteroskopeio.webp\" src=\"Asteroskopeio.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Asteroskopeio.webp\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Asteroskopeio.webp?1792539988683\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -3225,7 +3274,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Asteroskopeio.webp?1792539988683",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Asteroskopeio.webp?1792539988683",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Asteroskopeio.webp",
           "asset": "asset-c19db501.webp"
         }
@@ -3244,7 +3293,7 @@
         "Polykatoikia Elliniko.webp",
         "Polykatoikia Elliniko 2.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"Polykatoikia Elliniko.webp\" src=\"Polykatoikia Elliniko.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Polykatoikia Elliniko.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Elliniko.webp?1792712811452\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"Polykatoikia Elliniko.webp\" src=\"Polykatoikia Elliniko.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Polykatoikia Elliniko.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Elliniko.webp?1792712811452\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -3259,12 +3308,12 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Elliniko.webp?1792712811452",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Elliniko.webp?1792712811452",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Polykatoikia Elliniko.webp",
           "asset": "asset-e0f391f3.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Elliniko%202.webp?1792712870412",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Elliniko%202.webp?1792712870412",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Polykatoikia Elliniko 2.webp",
           "asset": "asset-4f92450d.webp"
         }
@@ -3283,7 +3332,7 @@
       "embedSrcs": [
         "Polykatoikia Marousi.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"Polykatoikia Marousi.webp\" src=\"Polykatoikia Marousi.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Polykatoikia Marousi.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Marousi.webp?1792711810464\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"Polykatoikia Marousi.webp\" src=\"Polykatoikia Marousi.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Polykatoikia Marousi.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Marousi.webp?1792711810464\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -3294,7 +3343,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Marousi.webp?1792711810464",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Marousi.webp?1792711810464",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Polykatoikia Marousi.webp",
           "asset": "asset-d80d1e44.webp"
         }
@@ -3312,7 +3361,7 @@
       "embedSrcs": [
         "Polykatoikia Zografou 2.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"Polykatoikia Zografou 2.webp\" src=\"Polykatoikia Zografou 2.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Polykatoikia Zografou 2.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Zografou%202.webp?1792712305070\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"Polykatoikia Zografou 2.webp\" src=\"Polykatoikia Zografou 2.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Polykatoikia Zografou 2.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Zografou%202.webp?1792712305070\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -3323,7 +3372,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Zografou%202.webp?1792712305070",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Zografou%202.webp?1792712305070",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Polykatoikia Zografou 2.webp",
           "asset": "asset-891befed.webp"
         }
@@ -3341,7 +3390,7 @@
       "embedSrcs": [
         "Polykatoikia Zografou.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"Polykatoikia Zografou.webp\" src=\"Polykatoikia Zografou.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Polykatoikia Zografou.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Zografou.webp?1792711992772\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"Polykatoikia Zografou.webp\" src=\"Polykatoikia Zografou.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Polykatoikia Zografou.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Zografou.webp?1792711992772\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -3352,7 +3401,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Zografou.webp?1792711992772",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Zografou.webp?1792711992772",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Polykatoikia Zografou.webp",
           "asset": "asset-a140cb53.webp"
         }
@@ -3373,7 +3422,7 @@
         "Vrilissia 3.webp",
         "Vrilissia 4.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"Vrilissia.webp\" src=\"Vrilissia.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Vrilissia.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Vrilissia.webp?1792711194183\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"Vrilissia.webp\" src=\"Vrilissia.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Vrilissia.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Vrilissia.webp?1792711194183\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -3396,22 +3445,22 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Vrilissia.webp?1792711194183",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Vrilissia.webp?1792711194183",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Vrilissia.webp",
           "asset": "asset-115d0d1d.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Vrilissia%202.webp?1792711231038",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Vrilissia%202.webp?1792711231038",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Vrilissia 2.webp",
           "asset": "asset-c4a47323.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Vrilissia%203.webp?1792711255988",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Vrilissia%203.webp?1792711255988",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Vrilissia 3.webp",
           "asset": "asset-65e07bea.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Vrilissia%204.webp?1792711306785",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Vrilissia%204.webp?1792711306785",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Vrilissia 4.webp",
           "asset": "asset-4ebbfb11.webp"
         }
@@ -3432,7 +3481,7 @@
       "embedSrcs": [
         "Polykatoikia Glyfada.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"Polykatoikia Glyfada.webp\" src=\"Polykatoikia Glyfada.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Polykatoikia Glyfada.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Glyfada.webp?1792712222509\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"Polykatoikia Glyfada.webp\" src=\"Polykatoikia Glyfada.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Polykatoikia Glyfada.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Glyfada.webp?1792712222509\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -3443,7 +3492,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Glyfada.webp?1792712222509",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Glyfada.webp?1792712222509",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Polykatoikia Glyfada.webp",
           "asset": "asset-afc75c28.webp"
         }
@@ -3461,7 +3510,7 @@
       "embedSrcs": [
         "Polykatoikia Ilioupoli 2.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"Polykatoikia Ilioupoli 2.webp\" src=\"Polykatoikia Ilioupoli 2.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Polykatoikia Ilioupoli 2.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Ilioupoli%202.webp?1792712116205\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"Polykatoikia Ilioupoli 2.webp\" src=\"Polykatoikia Ilioupoli 2.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Polykatoikia Ilioupoli 2.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Ilioupoli%202.webp?1792712116205\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -3472,7 +3521,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Ilioupoli%202.webp?1792712116205",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Ilioupoli%202.webp?1792712116205",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Polykatoikia Ilioupoli 2.webp",
           "asset": "asset-ad28dac0.webp"
         }
@@ -3490,7 +3539,7 @@
       "embedSrcs": [
         "Polykatoikia Ilioupoli.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"Polykatoikia Ilioupoli.webp\" src=\"Polykatoikia Ilioupoli.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Polykatoikia Ilioupoli.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Ilioupoli.webp?1792710488498\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"Polykatoikia Ilioupoli.webp\" src=\"Polykatoikia Ilioupoli.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Polykatoikia Ilioupoli.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Ilioupoli.webp?1792710488498\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -3501,7 +3550,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Ilioupoli.webp?1792710488498",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Polykatoikia%20Ilioupoli.webp?1792710488498",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Polykatoikia Ilioupoli.webp",
           "asset": "asset-1f135536.webp"
         }
@@ -3520,7 +3569,7 @@
         "Oikiskos.webp",
         "ATTACHMENTS/ΕΡΓΑ/Oikiskos2.webp"
       ],
-      "firstEmbedDom": "<span alt=\"Oikiskos.webp\" src=\"Oikiskos.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Oikiskos.webp\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Oikiskos.webp?1792540134263\"></span>",
+      "firstEmbedDom": "<span alt=\"Oikiskos.webp\" src=\"Oikiskos.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Oikiskos.webp\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Oikiskos.webp?1792540134263\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -3535,12 +3584,12 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Oikiskos.webp?1792540134263",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Oikiskos.webp?1792540134263",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Oikiskos.webp",
           "asset": "asset-f002e267.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Oikiskos2.webp?1792540563073",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Oikiskos2.webp?1792540563073",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Oikiskos2.webp",
           "asset": "asset-5c851707.webp"
         }
@@ -3561,7 +3610,7 @@
         "zn 2.webp",
         "zn 3.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"zn.webp\" src=\"zn.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"zn.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/zn.webp?1792716076897\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"zn.webp\" src=\"zn.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"zn.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/zn.webp?1792716076897\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -3580,17 +3629,17 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/zn.webp?1792716076897",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/zn.webp?1792716076897",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/zn.webp",
           "asset": "asset-4108322f.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/zn%202.webp?1792716111735",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/zn%202.webp?1792716111735",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/zn 2.webp",
           "asset": "asset-068d09f9.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/zn%203.webp?1792716147275",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/zn%203.webp?1792716147275",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/zn 3.webp",
           "asset": "asset-e0c10608.webp"
         }
@@ -3610,7 +3659,7 @@
       "embedSrcs": [
         "infinity.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"infinity.webp\" src=\"infinity.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"infinity.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/infinity.webp?1792716347375\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"infinity.webp\" src=\"infinity.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"infinity.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/infinity.webp?1792716347375\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -3621,7 +3670,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/infinity.webp?1792716347375",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/infinity.webp?1792716347375",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/infinity.webp",
           "asset": "asset-cd670417.webp"
         }
@@ -3639,7 +3688,7 @@
       "embedSrcs": [
         "LifeDANCE.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"LifeDANCE.webp\" src=\"LifeDANCE.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"LifeDANCE.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/LifeDANCE.webp?1792715730017\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"LifeDANCE.webp\" src=\"LifeDANCE.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"LifeDANCE.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/LifeDANCE.webp?1792715730017\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -3650,7 +3699,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/LifeDANCE.webp?1792715730017",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/LifeDANCE.webp?1792715730017",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/LifeDANCE.webp",
           "asset": "asset-6d5fca8a.webp"
         }
@@ -3669,7 +3718,7 @@
         "Paul_Glyfada.webp",
         "Paul_Glyfada 2.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"Paul_Glyfada.webp\" src=\"Paul_Glyfada.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Paul_Glyfada.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Paul_Glyfada.webp?1792709117230\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"Paul_Glyfada.webp\" src=\"Paul_Glyfada.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Paul_Glyfada.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Paul_Glyfada.webp?1792709117230\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -3684,12 +3733,12 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Paul_Glyfada.webp?1792709117230",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Paul_Glyfada.webp?1792709117230",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Paul_Glyfada.webp",
           "asset": "asset-03b08dd8.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Paul_Glyfada%202.webp?1792709130797",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Paul_Glyfada%202.webp?1792709130797",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Paul_Glyfada 2.webp",
           "asset": "asset-81d32ffe.webp"
         }
@@ -3709,7 +3758,7 @@
         "Fournos Ippokratous.webp",
         "Fournos Ippokratous 2.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"Fournos Ippokratous.webp\" src=\"Fournos Ippokratous.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Fournos Ippokratous.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Fournos%20Ippokratous.webp?1792709282612\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"Fournos Ippokratous.webp\" src=\"Fournos Ippokratous.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"Fournos Ippokratous.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Fournos%20Ippokratous.webp?1792709282612\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -3724,12 +3773,12 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Fournos%20Ippokratous.webp?1792709282612",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Fournos%20Ippokratous.webp?1792709282612",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Fournos Ippokratous.webp",
           "asset": "asset-776c4076.webp"
         },
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Fournos%20Ippokratous%202.webp?1792709315513",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/Fournos%20Ippokratous%202.webp?1792709315513",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/Fournos Ippokratous 2.webp",
           "asset": "asset-f8d25e00.webp"
         }
@@ -3748,7 +3797,7 @@
       "embedSrcs": [
         "fysio.webp"
       ],
-      "firstEmbedDom": "<span width=\"700\" alt=\"fysio.webp\" src=\"fysio.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"fysio.webp\" width=\"700\" src=\"app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/fysio.webp?1792717022653\"></span>",
+      "firstEmbedDom": "<span width=\"700\" alt=\"fysio.webp\" src=\"fysio.webp\" class=\"internal-embed media-embed image-embed is-loaded\"><img alt=\"fysio.webp\" width=\"700\" src=\"app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/fysio.webp?1792717022653\"></span>",
       "embedQueryHits": [],
       "embedReplacements": [
         {
@@ -3759,7 +3808,7 @@
       "links": [],
       "images": [
         {
-          "originalSrc": "app://2b62c271ed739fa6a092977aa8d083bbfe67/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/fysio.webp?1792717022653",
+          "originalSrc": "app://e560cb35708b1f81c0f5578f6a3b780d6585/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%A1%CE%93%CE%91/fysio.webp?1792717022653",
           "resolvedPath": "ATTACHMENTS/ΕΡΓΑ/fysio.webp",
           "asset": "asset-0c273273.webp"
         }

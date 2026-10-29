@@ -1404,27 +1404,35 @@ body.is-embed img {
 .np-table thead {
     display: none !important;
 }
-*//* =========================================
-   ΒΗΜΑ 11: ΑΛΛΑΓΗ ΚΕΦΑΛΙΔΑΣ "file name" ΣΤΟΥΣ ΠΙΝΑΚΕΣ BASE
+
+/* =========================================
+   ΒΗΜΑ 12: ΣΤΥΛ ΓΙΑ ΤΟ ΠΕΔΙΟ ΑΝΑΖΗΤΗΣΗΣ
    ========================================= */
-
-/* --- ΕΠΙΛΟΓΗ 1: Αλλαγή του "file name" σε "Ονομασία" --- */
-.np-table th:first-child {
-    font-size: 0 !important; /* Κρύβει την προεπιλεγμένη λέξη */
+.custom-search-container {
+    margin-bottom: 15px;
+    width: 100%;
 }
 
-.np-table th:first-child::after {
-    content: "Ονομασία" !important; /* Βάζει τη νέα λέξη */
-    font-size: 0.9rem !important; 
-    color: var(--np-color-text-muted) !important;
-    font-weight: 500 !important;
+.custom-search-input {
+    width: 100%;
+    max-width: 400px;
+    padding: 12px 20px;
+    border: 1px solid var(--np-color-border);
+    border-radius: 30px;
+    background-color: var(--np-color-bg-subtle);
+    color: var(--np-color-text);
+    font-size: 1rem;
+    font-family: inherit;
+    outline: none;
+    transition: border-color 0.2s, box-shadow 0.2s;
+    box-sizing: border-box;
 }
 
-/* --- ΕΠΙΛΟΓΗ 2: Πλήρης απόκρυψη της κεφαλίδας --- */
-/* Αν θέλεις να εξαφανίσεις τελείως τη γραμμή με το "file name", 
-   σβήσε το αστεράκι και το / από την αρχή των επόμενων δύο γραμμών: */
-/*
-.np-table thead {
-    display: none !important;
+.custom-search-input:focus {
+    border-color: var(--np-color-accent);
+    box-shadow: 0 0 0 3px rgba(6, 148, 148, 0.2);
 }
-*/
+
+.custom-search-input::placeholder {
+    color: var(--np-color-text-muted);
+}
