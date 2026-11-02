@@ -1,0 +1,4 @@
+# Suggested headers when hosting this package
+Content-Type: text/html; charset=utf-8   (for .html)
+Referrer-Policy: strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff
