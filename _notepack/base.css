@@ -1521,3 +1521,29 @@ body.is-embed .site-footer { display: none !important; }
     .site-brand { font-size: 0.95rem; }
 }
 
+/* =========================================
+   ΜΕΓΕΘΗ ΕΙΚΟΝΩΝ ΑΠΟ ΤΑ NOTES (|113 κ.λπ.)
+   Το VaultPack το γράφει ως attribute στο <span>, οπότε το εφαρμόζουμε εδώ.
+   ========================================= */
+.np-note-content span.internal-embed.sized-embed {
+    display: inline-block !important;
+    max-width: 100%;
+    margin: 0 1.1rem 1.1rem 0;
+    vertical-align: top;
+}
+
+.np-note-content span.internal-embed.sized-embed img {
+    width: 100% !important;
+    height: auto !important;
+    max-width: 100%;
+}
+
+/* --- Διορθώσεις 12358 (2026-11-14) --- */
+/* χωρίς οριζόντια γραμμή πάνω από το copyright */
+.site-footer { border-top: none; }
+
+/* μενού: μεγαλύτερα γράμματα, λευκά — η ενεργή σελίδα μένει στο accent */
+.site-nav { font-size: 0.95rem; }
+.site-nav a { color: #ffffff !important; }
+.site-nav a[aria-current="page"] { color: var(--np-color-accent) !important; }
+
