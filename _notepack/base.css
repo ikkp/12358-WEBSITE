@@ -1547,31 +1547,6 @@ body.is-embed .site-footer { display: none !important; }
 .site-nav a { color: #ffffff !important; }
 .site-nav a[aria-current="page"] { color: var(--np-color-accent) !important; }
 
-/* --- ΠΕΛΑΤΕΣ: σταθερό πλέγμα 4 στηλών, ομοιόμορφη κλίμακα (2026-11-14) --- */
-body[data-slug="clients"] .np-note-content p:has(span.sized-embed) {
-    display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: 1.5rem 1rem;
-    align-items: center;
-    justify-items: center;
-    margin: 0 0 1.5rem !important;
-}
-
-body[data-slug="clients"] .np-note-content span.sized-embed {
-    width: auto !important;
-    max-width: 100%;
-    display: block !important;
-    margin: 0 !important;
-}
-
-body[data-slug="clients"] .np-note-content span.sized-embed img {
-    width: auto !important;
-    max-width: 100% !important;
-    max-height: 88px;
-    height: auto !important;
-    object-fit: contain;
-}
-
 /* λιγότερος χώρος ανάμεσα στο λογότυπο και το copyright */
 .site-footer {
     margin-top: 0.4rem;
