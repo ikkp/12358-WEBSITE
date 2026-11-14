@@ -1077,6 +1077,7 @@ footer.np-footer {
   }
 }
 
+
 /* ===== INJECTED CUSTOM CSS ===== */
 /* =========================================
    ΒΗΜΑ 1 & 2: DARK MODE, SIDEBAR ΚΑΙ ΠΛΑΤΟΣ
@@ -1588,4 +1589,13 @@ body[data-slug="clients"] .logos-grid img {
 @media (max-width: 700px) {
     body[data-slug="clients"] .logos-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
+
+/* =========================================
+   ΚΕΝΕΣ ΓΡΑΜΜΕΣ ΑΠΟ ΤΟ NOTE (::sp1 / ::sp2 / ::sp3)
+   Γράφεις το ::sp2 μόνο του σε μια γραμμή → τόσες γραμμές κενό.
+   ========================================= */
+.spacer { display: block; height: 0; }
+.spacer-1 { height: 1.6rem; height: 1lh; }
+.spacer-2 { height: 3.2rem; height: 2lh; }
+.spacer-3 { height: 4.8rem; height: 3lh; }
 
