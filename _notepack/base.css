@@ -1435,3 +1435,89 @@ body.is-embed img {
 .custom-search-input::placeholder {
     color: var(--np-color-text-muted);
 }
+
+/* =========================================
+   ΚΕΦΑΛΙΔΑ SITE (sticky μενού) & ΥΠΟΣΕΛΙΔΟ
+   ========================================= */
+.site-header {
+    position: sticky;
+    top: 0;
+    z-index: 1200;
+    background: rgba(30, 30, 30, 0.95);
+    -webkit-backdrop-filter: saturate(140%) blur(10px);
+    backdrop-filter: saturate(140%) blur(10px);
+    border-bottom: 1px solid var(--np-color-border);
+}
+
+.site-header-inner {
+    max-width: 60rem;
+    margin: 0 auto;
+    padding: 0.8rem 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+}
+
+.site-brand {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--np-color-text) !important;
+    text-decoration: none !important;
+    white-space: nowrap;
+}
+
+.site-brand:hover { color: var(--np-color-accent) !important; }
+
+.site-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    font-size: 0.82rem;
+}
+
+.site-nav a {
+    color: var(--np-color-text-muted) !important;
+    text-decoration: none !important;
+    padding-bottom: 2px;
+    border-bottom: 1px solid transparent;
+}
+
+.site-nav a:hover { color: var(--np-color-accent) !important; }
+
+.site-nav a[aria-current="page"] {
+    color: var(--np-color-accent) !important;
+    border-bottom-color: var(--np-color-accent);
+}
+
+.site-footer {
+    border-top: 1px solid var(--np-color-border);
+    margin-top: 3rem;
+    padding: 1.5rem 1rem 2rem;
+    text-align: center;
+    font-size: 0.78rem;
+    color: var(--np-color-text-muted);
+}
+
+.site-footer p { margin: 0; }
+
+/* Το banner σκρολάρει πλέον ΚΑΤΩ από την κεφαλίδα: δεν είναι sticky */
+.is-sticky-banner,
+.np-note-content > p:first-of-type:has(> span.internal-embed),
+.np-note-content > p:has(span.internal-embed:nth-of-type(2)) {
+    position: static !important;
+    top: auto !important;
+    z-index: auto !important;
+    margin: 0 0 1.5rem !important;
+}
+
+/* Μέσα στο modal (12358) δεν θέλουμε κεφαλίδα/υποσέλιδο */
+body.is-embed .site-header,
+body.is-embed .site-footer { display: none !important; }
+
+@media (max-width: 700px) {
+    .site-header-inner { padding: 0.7rem 1rem; }
+    .site-nav { gap: 0.8rem; font-size: 0.78rem; }
+    .site-brand { font-size: 0.95rem; }
+}
+
