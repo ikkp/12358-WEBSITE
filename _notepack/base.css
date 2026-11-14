@@ -1580,8 +1580,9 @@ body[data-slug="clients"] .logos-grid img {
     width: auto !important;
     height: auto !important;
     max-width: 100% !important;
-    max-height: 100%;
-    object-fit: contain;
+    max-height: 84px !important;
+    object-fit: unset;
+    align-self: center;
 }
 
 @media (max-width: 700px) {
