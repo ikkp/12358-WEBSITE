@@ -1,5 +1,5 @@
 {
-  "startedAt": "2026-11-15T14:57:53.098Z",
+  "startedAt": "2026-11-15T15:08:14.268Z",
   "manifestVersion": "0.18.6",
   "scopeTitle": "12358 WEBSITE",
   "exportMode": "local",
@@ -28,6 +28,32 @@
         ]
       },
       "outFile": "base-a66c7094.html",
+      "problems": []
+    },
+    {
+      "basePath": "ELEMENTS/Εμείς.base",
+      "viewsParsed": [
+        {
+          "name": "View",
+          "type": "cards",
+          "summaries": null
+        }
+      ],
+      "viewHits": 1,
+      "sum-View": {
+        "cfg": null,
+        "hasFn": "function",
+        "hasController": false,
+        "qProtoKeys": [
+          "constructor",
+          "groupedData",
+          "properties",
+          "applySort",
+          "applyLimit",
+          "getSummaryValue"
+        ]
+      },
+      "outFile": "base-e311c065.html",
       "problems": []
     },
     {
@@ -84,21 +110,42 @@
     }
   ],
   "accentCaptured": "rgb(138, 92, 245)",
-  "notePageCount": 88,
+  "notePageCount": 93,
   "notes": [
     {
       "path": "12358 WEBSITE/about.md",
+      "embedWaitMs": 250,
+      "embedMatched": 1,
+      "embedExpected": 1,
       "embedSrcs": [
         "ATTACHMENTS/SITE/cover.webp",
+        "Εμείς.base",
         "greview.webp",
         "ATTACHMENTS/SITE/logo.webp"
       ],
       "firstEmbedDom": "<span class=\"internal-embed media-embed image-embed is-loaded\" src=\"ATTACHMENTS/SITE/cover.webp\" alt=\"ATTACHMENTS/SITE/cover.webp\"><img alt=\"ATTACHMENTS/SITE/cover.webp\" src=\"app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/cover.webp?1792509050409\"></span>",
-      "embedQueryHits": [],
+      "embedQueryHits": [
+        {
+          "path": "root._children[1]._children[0]._children[6].data",
+          "dataLen": 5,
+          "properties": [
+            "file.name"
+          ],
+          "ownerHasContainerEl": true,
+          "containerInsideThisNote": true,
+          "containerClass": "bases-cards-container node-insert-event"
+        }
+      ],
       "embedReplacements": [
         {
           "src": "ATTACHMENTS/SITE/cover.webp",
           "skipped": "not-a-base-embed"
+        },
+        {
+          "src": "Εμείς.base",
+          "rows": 5,
+          "groups": 0,
+          "matchedPath": "root._children[1]._children[0]._children[6].data"
         },
         {
           "src": "greview.webp",
@@ -146,6 +193,31 @@
           "asset": "asset-ebd2c41b.webp"
         },
         {
+          "originalSrc": "../assets/asset-2b8be58a.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-2b8be58a.webp",
+          "asset": "asset-d0f2263d.webp"
+        },
+        {
+          "originalSrc": "../assets/asset-4b3dcd94.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-4b3dcd94.webp",
+          "asset": "asset-94d894f1.webp"
+        },
+        {
+          "originalSrc": "../assets/asset-2c30ead7.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-2c30ead7.webp",
+          "asset": "asset-b880ff45.webp"
+        },
+        {
+          "originalSrc": "../assets/asset-49490864.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-49490864.webp",
+          "asset": "asset-60051fee.webp"
+        },
+        {
+          "originalSrc": "../assets/asset-3a6987c1.webp",
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-3a6987c1.webp",
+          "asset": "asset-bcddbd00.webp"
+        },
+        {
           "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/greview.webp?1792799591294",
           "resolvedPath": "ATTACHMENTS/SITE/greview.webp",
           "asset": "asset-83fa58f9.webp"
@@ -161,6 +233,8 @@
       "topLevelTags": [
         "p",
         "h2",
+        "p",
+        "p",
         "p",
         "p",
         "p",
@@ -252,78 +326,78 @@
         },
         {
           "originalSrc": "../assets/asset-c7df827d.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-c7df827d.webp",
-          "asset": "asset-32882b79.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-c7df827d.webp",
+          "asset": "asset-4c5fd013.webp"
         },
         {
           "originalSrc": "../assets/asset-3efddb70.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-3efddb70.webp",
-          "asset": "asset-ae6e72bf.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-3efddb70.webp",
+          "asset": "asset-f60ec84d.webp"
         },
         {
           "originalSrc": "../assets/asset-c436caee.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-c436caee.webp",
-          "asset": "asset-e4a896ce.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-c436caee.webp",
+          "asset": "asset-e2ffc8ac.webp"
         },
         {
           "originalSrc": "../assets/asset-c496b48d.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-c496b48d.webp",
-          "asset": "asset-7eade9f8.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-c496b48d.webp",
+          "asset": "asset-4a7d8f9a.webp"
         },
         {
           "originalSrc": "../assets/asset-c38441fe.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-c38441fe.webp",
-          "asset": "asset-150bec8a.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-c38441fe.webp",
+          "asset": "asset-1966ec54.webp"
         },
         {
           "originalSrc": "../assets/asset-2f1348d1.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-2f1348d1.webp",
-          "asset": "asset-62640c9b.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-2f1348d1.webp",
+          "asset": "asset-1793f865.webp"
         },
         {
           "originalSrc": "../assets/asset-3ba17917.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-3ba17917.webp",
-          "asset": "asset-ced7b4ab.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-3ba17917.webp",
+          "asset": "asset-f4895551.webp"
         },
         {
           "originalSrc": "../assets/asset-38e79ac2.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-38e79ac2.webp",
-          "asset": "asset-7163ecca.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-38e79ac2.webp",
+          "asset": "asset-1966ac10.webp"
         },
         {
           "originalSrc": "../assets/asset-e08f1f01.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-e08f1f01.webp",
-          "asset": "asset-2cbaab3f.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-e08f1f01.webp",
+          "asset": "asset-7fe82655.webp"
         },
         {
           "originalSrc": "../assets/asset-1fb00ec3.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-1fb00ec3.webp",
-          "asset": "asset-e8305b7a.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-1fb00ec3.webp",
+          "asset": "asset-c1bd6318.webp"
         },
         {
           "originalSrc": "../assets/asset-a5459f64.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-a5459f64.webp",
-          "asset": "asset-88850bda.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-a5459f64.webp",
+          "asset": "asset-75b27298.webp"
         },
         {
           "originalSrc": "../assets/asset-00a7712e.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-00a7712e.webp",
-          "asset": "asset-02eb22d9.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-00a7712e.webp",
+          "asset": "asset-4f22db9b.webp"
         },
         {
           "originalSrc": "../assets/asset-30f8eed5.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-30f8eed5.webp",
-          "asset": "asset-8bbddbea.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-30f8eed5.webp",
+          "asset": "asset-32419c00.webp"
         },
         {
           "originalSrc": "../assets/asset-3b5897d3.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-3b5897d3.webp",
-          "asset": "asset-2501abd9.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-3b5897d3.webp",
+          "asset": "asset-a25489f7.webp"
         },
         {
           "originalSrc": "../assets/asset-625577df.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-625577df.webp",
-          "asset": "asset-75786b04.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-625577df.webp",
+          "asset": "asset-6a42507e.webp"
         },
         {
           "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/logo.webp?1791821688564",
@@ -896,223 +970,223 @@
         },
         {
           "originalSrc": "../assets/asset-d5160a22.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-d5160a22.webp",
-          "asset": "asset-b21f4583.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-d5160a22.webp",
+          "asset": "asset-c4621505.webp"
         },
         {
           "originalSrc": "../assets/asset-b5787fb7.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-b5787fb7.webp",
-          "asset": "asset-d4d7829e.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-b5787fb7.webp",
+          "asset": "asset-f17b41ec.webp"
         },
         {
           "originalSrc": "../assets/asset-76b61914.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-76b61914.webp",
-          "asset": "asset-94a1d0a8.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-76b61914.webp",
+          "asset": "asset-17933576.webp"
         },
         {
           "originalSrc": "../assets/asset-7beee698.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-7beee698.webp",
-          "asset": "asset-cd7b2319.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-7beee698.webp",
+          "asset": "asset-8e8aa433.webp"
         },
         {
           "originalSrc": "../assets/asset-b1d3bf9e.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-b1d3bf9e.webp",
-          "asset": "asset-a5c25f48.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-b1d3bf9e.webp",
+          "asset": "asset-4b69b9f6.webp"
         },
         {
           "originalSrc": "../assets/asset-d9bbe57f.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-d9bbe57f.webp",
-          "asset": "asset-8cb6fe72.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-d9bbe57f.webp",
+          "asset": "asset-601eb338.webp"
         },
         {
           "originalSrc": "../assets/asset-1462cccf.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-1462cccf.webp",
-          "asset": "asset-9c621674.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-1462cccf.webp",
+          "asset": "asset-ae706462.webp"
         },
         {
           "originalSrc": "../assets/asset-c19db501.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-c19db501.webp",
-          "asset": "asset-a4c14b4f.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-c19db501.webp",
+          "asset": "asset-2f20d58d.webp"
         },
         {
           "originalSrc": "../assets/asset-f002e267.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-f002e267.webp",
-          "asset": "asset-0377efce.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-f002e267.webp",
+          "asset": "asset-7aab0528.webp"
         },
         {
           "originalSrc": "../assets/asset-fb152b73.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-fb152b73.webp",
-          "asset": "asset-0b4e7b96.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-fb152b73.webp",
+          "asset": "asset-d0cc369c.webp"
         },
         {
           "originalSrc": "../assets/asset-03934234.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-03934234.webp",
-          "asset": "asset-4b12452e.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-03934234.webp",
+          "asset": "asset-64c0791c.webp"
         },
         {
           "originalSrc": "../assets/asset-ee74e27a.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-ee74e27a.webp",
-          "asset": "asset-401da208.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-ee74e27a.webp",
+          "asset": "asset-91adbfca.webp"
         },
         {
           "originalSrc": "../assets/asset-0b13f380.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-0b13f380.webp",
-          "asset": "asset-f0a920a1.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-0b13f380.webp",
+          "asset": "asset-3954b4cf.webp"
         },
         {
           "originalSrc": "../assets/asset-6505d988.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-6505d988.webp",
-          "asset": "asset-96bc3925.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-6505d988.webp",
+          "asset": "asset-c1b4253f.webp"
         },
         {
           "originalSrc": "../assets/asset-cf14dd41.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-cf14dd41.webp",
-          "asset": "asset-8906be43.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-cf14dd41.webp",
+          "asset": "asset-d29dca19.webp"
         },
         {
           "originalSrc": "../assets/asset-e0b53153.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-e0b53153.webp",
-          "asset": "asset-a2bf7376.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-e0b53153.webp",
+          "asset": "asset-0314dc30.webp"
         },
         {
           "originalSrc": "../assets/asset-8d3a59d3.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-8d3a59d3.webp",
-          "asset": "asset-53b53f9b.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-8d3a59d3.webp",
+          "asset": "asset-a6f813a9.webp"
         },
         {
           "originalSrc": "../assets/asset-f52df0f7.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-f52df0f7.webp",
-          "asset": "asset-d647e574.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-f52df0f7.webp",
+          "asset": "asset-cf5d719e.webp"
         },
         {
           "originalSrc": "../assets/asset-03b08dd8.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-03b08dd8.webp",
-          "asset": "asset-e678c09f.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-03b08dd8.webp",
+          "asset": "asset-93695dc5.webp"
         },
         {
           "originalSrc": "../assets/asset-776c4076.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-776c4076.webp",
-          "asset": "asset-c5f180ce.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-776c4076.webp",
+          "asset": "asset-914ef8bc.webp"
         },
         {
           "originalSrc": "../assets/asset-fd9574a5.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-fd9574a5.webp",
-          "asset": "asset-93d3cb69.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-fd9574a5.webp",
+          "asset": "asset-30216c3f.webp"
         },
         {
           "originalSrc": "../assets/asset-6a9902b2.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-6a9902b2.webp",
-          "asset": "asset-cc760825.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-6a9902b2.webp",
+          "asset": "asset-7daf288b.webp"
         },
         {
           "originalSrc": "../assets/asset-e0f391f3.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-e0f391f3.webp",
-          "asset": "asset-6358d73b.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-e0f391f3.webp",
+          "asset": "asset-2786d809.webp"
         },
         {
           "originalSrc": "../assets/asset-d80d1e44.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-d80d1e44.webp",
-          "asset": "asset-3926e160.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-d80d1e44.webp",
+          "asset": "asset-0423dabe.webp"
         },
         {
           "originalSrc": "../assets/asset-a140cb53.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-a140cb53.webp",
-          "asset": "asset-247fec03.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-a140cb53.webp",
+          "asset": "asset-c4269a1d.webp"
         },
         {
           "originalSrc": "../assets/asset-891befed.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-891befed.webp",
-          "asset": "asset-330d6014.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-891befed.webp",
+          "asset": "asset-dcd2a422.webp"
         },
         {
           "originalSrc": "../assets/asset-115d0d1d.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-115d0d1d.webp",
-          "asset": "asset-3bc477bc.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-115d0d1d.webp",
+          "asset": "asset-37d2d6d2.webp"
         },
         {
           "originalSrc": "../assets/asset-afc75c28.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-afc75c28.webp",
-          "asset": "asset-49909e9f.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-afc75c28.webp",
+          "asset": "asset-4c11cb21.webp"
         },
         {
           "originalSrc": "../assets/asset-1f135536.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-1f135536.webp",
-          "asset": "asset-c08f91f2.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-1f135536.webp",
+          "asset": "asset-13f2eb30.webp"
         },
         {
           "originalSrc": "../assets/asset-ad28dac0.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-ad28dac0.webp",
-          "asset": "asset-0c69a56f.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-ad28dac0.webp",
+          "asset": "asset-1f55020d.webp"
         },
         {
           "originalSrc": "../assets/asset-48ce19df.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-48ce19df.webp",
-          "asset": "asset-d868de0e.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-48ce19df.webp",
+          "asset": "asset-4bd5b04c.webp"
         },
         {
           "originalSrc": "../assets/asset-b1e117ec.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-b1e117ec.webp",
-          "asset": "asset-64dd4f63.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-b1e117ec.webp",
+          "asset": "asset-85c3424d.webp"
         },
         {
           "originalSrc": "../assets/asset-6a5171a8.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-6a5171a8.webp",
-          "asset": "asset-8f8100c8.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-6a5171a8.webp",
+          "asset": "asset-c1e0268e.webp"
         },
         {
           "originalSrc": "../assets/asset-4108322f.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-4108322f.webp",
-          "asset": "asset-7db89f78.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-4108322f.webp",
+          "asset": "asset-71ec9956.webp"
         },
         {
           "originalSrc": "../assets/asset-cd670417.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-cd670417.webp",
-          "asset": "asset-ec95b85a.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-cd670417.webp",
+          "asset": "asset-04c20178.webp"
         },
         {
           "originalSrc": "../assets/asset-6d5fca8a.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-6d5fca8a.webp",
-          "asset": "asset-18f0360c.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-6d5fca8a.webp",
+          "asset": "asset-71501866.webp"
         },
         {
           "originalSrc": "../assets/asset-2ebdd59d.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-2ebdd59d.webp",
-          "asset": "asset-1f09b135.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-2ebdd59d.webp",
+          "asset": "asset-f8bfce23.webp"
         },
         {
           "originalSrc": "../assets/asset-5ca6a1bd.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-5ca6a1bd.webp",
-          "asset": "asset-79dbbaab.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-5ca6a1bd.webp",
+          "asset": "asset-6383d715.webp"
         },
         {
           "originalSrc": "../assets/asset-7ac381df.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-7ac381df.webp",
-          "asset": "asset-3cca2ccb.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-7ac381df.webp",
+          "asset": "asset-2d211439.webp"
         },
         {
           "originalSrc": "../assets/asset-0c273273.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-0c273273.webp",
-          "asset": "asset-0d8cdcad.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-0c273273.webp",
+          "asset": "asset-96057bef.webp"
         },
         {
           "originalSrc": "../assets/asset-f9f59244.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-f9f59244.webp",
-          "asset": "asset-e95f87c3.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-f9f59244.webp",
+          "asset": "asset-beb10d25.webp"
         },
         {
           "originalSrc": "../assets/asset-dd21e96f.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-dd21e96f.webp",
-          "asset": "asset-efbf5c0b.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-dd21e96f.webp",
+          "asset": "asset-c80e9885.webp"
         },
         {
           "originalSrc": "../assets/asset-12a371aa.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-12a371aa.webp",
-          "asset": "asset-cfcad7dd.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-12a371aa.webp",
+          "asset": "asset-8e5b7def.webp"
         },
         {
           "originalSrc": "../assets/asset-0e164745.webp",
-          "resolvedPath": "VaultPack Exports/vaultpack-20261115-165753/assets/asset-0e164745.webp",
-          "asset": "asset-6237c070.webp"
+          "resolvedPath": "VaultPack Exports/vaultpack-20261115-170814/assets/asset-0e164745.webp",
+          "asset": "asset-494b6e1e.webp"
         },
         {
           "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/SITE/logo.webp?1791821688564",
@@ -1963,6 +2037,151 @@
           "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/BLOG/%CE%A5%CF%80%CE%B7%CF%81%CE%B5%CF%84%CE%B9%CE%BA%CF%8C%CE%BD%20%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CF%8C%CE%BD.webp?1792838081420",
           "resolvedPath": "ATTACHMENTS/BLOG/Υπηρετικόν προσωπικόν.webp",
           "asset": "asset-3ba17917.webp"
+        }
+      ],
+      "embedSpanCount": 1,
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "p",
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "ELEMENTS/ΕΜΕΙΣ/Άννα Κόκα.md",
+      "embedSrcs": [
+        "akoka.webp"
+      ],
+      "firstEmbedDom": "<span class=\"internal-embed media-embed image-embed is-loaded\" src=\"akoka.webp\" alt=\"akoka.webp\"><img alt=\"akoka.webp\" src=\"app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/akoka.webp?1792797635568\"></span>",
+      "embedQueryHits": [],
+      "embedReplacements": [
+        {
+          "src": "akoka.webp",
+          "skipped": "not-a-base-embed"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/akoka.webp?1792797635568",
+          "resolvedPath": "ATTACHMENTS/ΕΜΕΙΣ/akoka.webp",
+          "asset": "asset-49490864.webp"
+        }
+      ],
+      "embedSpanCount": 1,
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "p",
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "ELEMENTS/ΕΜΕΙΣ/Δημήτρης Περβολαράκης.md",
+      "embedSrcs": [
+        "pervolarakis.webp"
+      ],
+      "firstEmbedDom": "<span class=\"internal-embed media-embed image-embed is-loaded\" src=\"pervolarakis.webp\" alt=\"pervolarakis.webp\"><img alt=\"pervolarakis.webp\" src=\"app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/pervolarakis.webp?1792797546090\"></span>",
+      "embedQueryHits": [],
+      "embedReplacements": [
+        {
+          "src": "pervolarakis.webp",
+          "skipped": "not-a-base-embed"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/pervolarakis.webp?1792797546090",
+          "resolvedPath": "ATTACHMENTS/ΕΜΕΙΣ/pervolarakis.webp",
+          "asset": "asset-4b3dcd94.webp"
+        }
+      ],
+      "embedSpanCount": 1,
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "p",
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "ELEMENTS/ΕΜΕΙΣ/Ιπποκράτης Ποιμενίδης.md",
+      "embedSrcs": [
+        "poimenidis.webp"
+      ],
+      "firstEmbedDom": "<span class=\"internal-embed media-embed image-embed is-loaded\" src=\"poimenidis.webp\" alt=\"poimenidis.webp\"><img alt=\"poimenidis.webp\" src=\"app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/poimenidis.webp?1792797456114\"></span>",
+      "embedQueryHits": [],
+      "embedReplacements": [
+        {
+          "src": "poimenidis.webp",
+          "skipped": "not-a-base-embed"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/poimenidis.webp?1792797456114",
+          "resolvedPath": "ATTACHMENTS/ΕΜΕΙΣ/poimenidis.webp",
+          "asset": "asset-2b8be58a.webp"
+        }
+      ],
+      "embedSpanCount": 1,
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "p",
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "ELEMENTS/ΕΜΕΙΣ/Κωστής Κόκας.md",
+      "embedSrcs": [
+        "kkokas.webp"
+      ],
+      "firstEmbedDom": "<span class=\"internal-embed media-embed image-embed is-loaded\" src=\"kkokas.webp\" alt=\"kkokas.webp\"><img alt=\"kkokas.webp\" src=\"app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/kkokas.webp?1792797707083\"></span>",
+      "embedQueryHits": [],
+      "embedReplacements": [
+        {
+          "src": "kkokas.webp",
+          "skipped": "not-a-base-embed"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/kkokas.webp?1792797707083",
+          "resolvedPath": "ATTACHMENTS/ΕΜΕΙΣ/kkokas.webp",
+          "asset": "asset-3a6987c1.webp"
+        }
+      ],
+      "embedSpanCount": 1,
+      "noteEmbeds": [],
+      "topLevelTags": [
+        "p",
+        "p"
+      ],
+      "foldableSections": 0
+    },
+    {
+      "path": "ELEMENTS/ΕΜΕΙΣ/Κώστας Παλαντάς.md",
+      "embedSrcs": [
+        "palantas.webp"
+      ],
+      "firstEmbedDom": "<span class=\"internal-embed media-embed image-embed is-loaded\" src=\"palantas.webp\" alt=\"palantas.webp\"><img alt=\"palantas.webp\" src=\"app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/palantas.webp?1792798400088\"></span>",
+      "embedQueryHits": [],
+      "embedReplacements": [
+        {
+          "src": "palantas.webp",
+          "skipped": "not-a-base-embed"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "originalSrc": "app://e323b45138020ed5bb449eb1b6ceec434cb3/H:/My%20Drive/OBSIDIAN%2012358%20WEBSITE/ATTACHMENTS/%CE%95%CE%9C%CE%95%CE%99%CE%A3/palantas.webp?1792798400088",
+          "resolvedPath": "ATTACHMENTS/ΕΜΕΙΣ/palantas.webp",
+          "asset": "asset-2c30ead7.webp"
         }
       ],
       "embedSpanCount": 1,

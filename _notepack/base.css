@@ -1594,8 +1594,10 @@ body[data-slug="clients"] .logos-grid img {
    ΚΕΝΕΣ ΓΡΑΜΜΕΣ ΑΠΟ ΤΟ NOTE (::sp1 / ::sp2 / ::sp3)
    Γράφεις το ::sp2 μόνο του σε μια γραμμή → τόσες γραμμές κενό.
    ========================================= */
-.spacer { display: block; height: 0; }
-.spacer-1 { height: 1.6rem; height: 1lh; }
-.spacer-2 { height: 3.2rem; height: 2lh; }
-.spacer-3 { height: 4.8rem; height: 3lh; }
+
+/* =========================================
+   ΚΕΝΕΣ ΓΡΑΜΜΕΣ: κάθε κενή σειρά του .md
+   γίνεται πραγματικό κενό (div.gap)
+   ========================================= */
+.gap { display: block; height: 1lh; }
 

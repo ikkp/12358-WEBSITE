@@ -1,5 +1,6 @@
 {
   "ELEMENTS/Blog.base": "base-a66c7094.html",
+  "ELEMENTS/Εμείς.base": "base-e311c065.html",
   "ELEMENTS/Έργα.base": "base-2cebdc89.html",
   "ELEMENTS/Υπηρεσίες.base": "base-101d20a9.html",
   "12358 WEBSITE/about.md": "about.html",
@@ -27,6 +28,11 @@
   "ELEMENTS/BLOG/Τακτοποίηση αυθαιρέτων.md": "Taktopoiisi-authaireton.html",
   "ELEMENTS/BLOG/Τι σημαίνει το 12358;.md": "Ti-simainei-to-12358.html",
   "ELEMENTS/BLOG/Φαντάσματα του παρελθόντος.md": "Fadasmata-tou-parelthodos.html",
+  "ELEMENTS/ΕΜΕΙΣ/Άννα Κόκα.md": "Anna-Koka.html",
+  "ELEMENTS/ΕΜΕΙΣ/Δημήτρης Περβολαράκης.md": "Dimitris-Pervolarakis.html",
+  "ELEMENTS/ΕΜΕΙΣ/Ιπποκράτης Ποιμενίδης.md": "Ippokratis-Poimenidis.html",
+  "ELEMENTS/ΕΜΕΙΣ/Κωστής Κόκας.md": "Kostis-Kokas.html",
+  "ELEMENTS/ΕΜΕΙΣ/Κώστας Παλαντάς.md": "Kostas-Paladas.html",
   "ELEMENTS/ΕΡΓΑ/Βιομηχανία στη Θήβα.md": "Viomichania-sti-Thiva.html",
   "ELEMENTS/ΕΡΓΑ/Βιομηχανία στο Σχημάταρι.md": "Viomichania-sto-Schimatari.html",
   "ELEMENTS/ΕΡΓΑ/Διατηρητέο στα Εξάρχεια.md": "Diatiriteo-sta-Exarcheia.html",
