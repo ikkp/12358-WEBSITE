@@ -1077,7 +1077,6 @@ footer.np-footer {
   }
 }
 
-
 /* ===== INJECTED CUSTOM CSS ===== */
 /* =========================================
    ΒΗΜΑ 1 & 2: DARK MODE, SIDEBAR ΚΑΙ ΠΛΑΤΟΣ
@@ -1506,7 +1505,7 @@ body.is-embed img {
 .is-sticky-banner,
 .np-note-content > p:first-of-type:has(> span.internal-embed),
 .np-note-content > p:has(span.internal-embed:nth-of-type(2)) {
-    position: static !important;
+    position: relative !important;
     top: auto !important;
     z-index: auto !important;
     margin: 0 0 1.5rem !important;
