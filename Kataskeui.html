@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="el">
 <head>
+<script id="theme-init">(function(){try{var t=localStorage.getItem("12358-theme");if(t==="light"){document.documentElement.setAttribute("data-theme","light");}else if(t==="dark"){document.documentElement.removeAttribute("data-theme");}}catch(e){}})();</script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Κατασκευή | 12358 Μελέτη - Κατασκευή Κτιρίων</title>
@@ -361,5 +362,49 @@ if (window.location.search.includes('embed=true')) {
     });
 }
 </script>
-<footer class="site-footer"><p>© 2026 12358 Μελέτη - Κατασκευή Κτιρίων · Τμήμα της IRIA group Ο.Ε.</p></footer></body>
+<footer class="site-footer"><p>© 2026 12358 Μελέτη - Κατασκευή Κτιρίων · Τμήμα της IRIA group Ο.Ε.</p></footer><script id="theme-toggle-script">
+(function(){
+  var KEY='12358-theme';
+  var root=document.documentElement;
+  var SUN='<svg class="icon-sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.1"></circle><path d="M12 2.6v2.1M12 19.3v2.1M2.6 12h2.1M19.3 12h2.1M5.4 5.4l1.5 1.5M17.1 17.1l1.5 1.5M18.6 5.4l-1.5 1.5M6.9 17.1l-1.5 1.5"></path></svg>';
+  var MOON='<svg class="icon-moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20.4 13.2A8.6 8.6 0 1 1 10.8 3.6a6.7 6.7 0 0 0 9.6 9.6Z"></path></svg>';
+  function theme(){ return root.getAttribute('data-theme')==='light' ? 'light' : 'dark'; }
+  function logos(t){
+    var imgs=document.querySelectorAll('img.brand-logo');
+    for(var i=0;i<imgs.length;i++){
+      var img=imgs[i];
+      var src=t==='light'?img.getAttribute('data-logo-light'):img.getAttribute('data-logo-dark');
+      if(src && img.getAttribute('src')!==src){ img.setAttribute('src',src); }
+    }
+  }
+  function paint(t){
+    logos(t);
+    var b=document.querySelector('.theme-toggle');
+    if(b){
+      b.setAttribute('aria-pressed', t==='light'?'true':'false');
+      b.setAttribute('title', t==='light'?'Σκούρο θέμα':'Φωτεινό θέμα');
+    }
+  }
+  function set(t){
+    if(t==='light'){ root.setAttribute('data-theme','light'); } else { root.removeAttribute('data-theme'); }
+    try{ localStorage.setItem(KEY,t); }catch(e){}
+    paint(t);
+  }
+  function mount(){
+    if(!document.querySelector('.theme-toggle')){
+      var host=document.querySelector('.site-header-inner')||document.body;
+      var b=document.createElement('button');
+      b.type='button';
+      b.className='theme-toggle';
+      b.setAttribute('aria-label','Εναλλαγή σκούρου / φωτεινού θέματος');
+      b.innerHTML=SUN+MOON;
+      host.appendChild(b);
+      b.addEventListener('click', function(){ set(theme()==='light'?'dark':'light'); });
+    }
+    paint(theme());
+  }
+  if(document.readyState==='loading'){ document.addEventListener('DOMContentLoaded', mount); } else { mount(); }
+})();
+</script>
+</body>
 </html>
